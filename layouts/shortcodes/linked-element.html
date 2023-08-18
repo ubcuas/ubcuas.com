@@ -1,0 +1,6 @@
+{{- $link := .Get "link" -}}
+{{- $target := .Get "target" -}}
+
+<a {{ with $link }}href="{{ . }}"{{ end }} {{ with $target }}target="{{ . }}"{{ else }}target="_blank"{{ end }}>
+    {{ replace .Inner "    " "" | markdownify }}
+</a>

@@ -1,0 +1,96 @@
+#################### default parameters ################################
+# favicon
+favicon = "images/logos/uas/favicon.png"
+# logos
+logo = "images/logos/uas/logo.png"
+logo_darkmode = "images/logos/uas/logo-darkmode.png"
+# use `px` or `x` with logo_width, example: "100px".
+# Note: logo_width is not work with .svg file
+logo_width = "160px"
+logo_height = "32px"
+# if logo_webp set false, will not generate WEBP version of logo | default is true
+logo_webp = true
+# logo text will only show when logo is missing.
+logo_text = "UBC UAS"
+# navbar fixed to top
+navbar_fixed = true
+# theme-mode
+theme_switcher = true
+theme_default = "system" # available options [light/dark/system]
+# Main Sections
+mainSections = ["blog"] # used for related posts section
+# contact form action
+contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
+# google tag manager, see https://developers.google.com/tag-manager/
+google_tag_manager = "G-ME8627XSK9" # example: G-XXXXXXXXXX
+google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
+custom_script = ""
+# copyright
+copyright = "© 2023 UBC Uncrewed Aircraft Systems"
+
+# Preloader
+[preloader]
+enable = true
+preloader = "png" # use jpg, png, svg or gif format.
+
+# Navigation button
+[navigation_button]
+enable = true
+label = "Sponsor Us"
+link = "https://donate.give.ubc.ca/page/80953/donate/1?transaction.dirgift=UBC+Uncrewed+Aircraft+Systems+%28UAS%29%20G2333"
+# TODO: change to sponsorships page
+# link = "sponsorships"
+
+# search
+[search]
+enable = true
+primary_color = "#121212"
+include_sections = ["pages", "blog"] # Displays results in order of the sections listed here
+show_image = false
+show_description = true
+show_tags = true
+show_categories = true
+
+# seo meta data for OpenGraph / Twitter Card
+[metadata]
+keywords = ["UBC UAS", "UBC Uncrewed Aircraft Systems", "Autonomous Drones", "UBC Design Team", "UBC Engineering"]
+description = "UBC Uncrewed Aircraft Systems is a student design team that designs, builds, and flies autonomous drones."
+author = "UBC Uncrewed Aircraft Systems"
+# TODO: add image
+image = "images/og-image.png"
+
+# site verifications
+[site_verification]
+google = ""   # Your verification code
+bing = ""     # Your verification code
+baidu = ""    # Your verification code
+facebook = "" # Your verification code
+mastodon = "" # Your verification code
+
+# cookies
+[cookies]
+enable = true
+expire_days = 60
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+
+######################## sidebar widgets #########################
+[widgets]
+sidebar = ["categories", "tags"]
+
+# google map
+[google_map]
+enable = false
+map_api_key = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+
+# Subscription
+# TODO: add mailchimp form
+[subscription]
+enable = true
+# mailchimp subsciption
+mailchimp_form_action = "https://ubcuas.us4.list-manage.com/subscribe/post?u=723db365fec0facbdc454b038&amp;id=e1c21bc4a5&amp;f_id=0095b6e9f0"
+mailchimp_form_name = "Recruitment Notification List"
