@@ -1,7 +1,25 @@
 [build]
 publish = "public"
-command = "yarn project-setup; yarn build"
+command = "npm run build"
 
 [build.environment]
 HUGO_VERSION = "0.115.4"
 GO_VERSION = "1.20.5"
+
+[[plugins]]
+  package = "netlify-plugin-submit-sitemap"
+
+	[plugins.inputs]
+  # https://github.com/cdeleeuwe/netlify-plugin-submit-sitemap
+
+	# Path to the sitemap URL (optional, default = /sitemap.xml)
+	sitemapPath = "/sitemap.xml"
+
+	# Time in seconds to not submit the sitemap after successful submission
+	ignorePeriod = 0
+
+	# Enabled providers to submit sitemap to (optional, default = 'google', 'yandex'). Possible providers are currently only 'google', 'yandex'.
+	providers = [
+		"google",
+		"yandex"
+	]
