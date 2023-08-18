@@ -1,0 +1,24 @@
+{
+  "main": [
+    {
+      "name": "instagram",
+      "icon": "fab fa-instagram",
+      "link": "https://instagram.com/ubcuas"
+    },
+    {
+      "name": "facebook",
+      "icon": "fab fa-facebook",
+      "link": "https://www.facebook.com/ubcuas"
+    },
+    {
+      "name": "linkedin",
+      "icon": "fab fa-linkedin",
+      "link": "https://www.linkedin.com/company/ubcuas/"
+    },
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "https://www.github.com/ubcuas"
+    }
+  ]
+}
