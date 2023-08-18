@@ -1,5 +1,11 @@
 <meta charset="utf-8" />
-<title>{{ .Title | default site.Title }}</title>
+<title>
+  {{ if .IsHome }}
+    {{ .Page.Title | default site.Title }}
+  {{ else }}
+    {{ .Page.Title }} - {{ site.Title }}
+  {{ end }}
+</title>
 
 <!-- responsive meta -->
 <meta
