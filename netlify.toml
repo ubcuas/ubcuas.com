@@ -6,6 +6,23 @@ command = "yarn project-setup; yarn build"
 HUGO_VERSION = "0.115.4"
 GO_VERSION = "1.20.5"
 
+[context.production.environment]
+HUGO_VERSION = "0.117.0"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
+[context.deploy-preview]
+command = "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic --buildFuture -b $DEPLOY_PRIME_URL"
+
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.117.0"
+
+[context.branch-deploy]
+command = "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.117.0"
+
 [[plugins]]
   package = "netlify-plugin-submit-sitemap"
 
