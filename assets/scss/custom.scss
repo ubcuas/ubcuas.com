@@ -1,2 +1,23 @@
-// DO NOT WRITE ANY STYLE IN THIS FILE
-// If you want to add your own styles, please write it in the `./assets/scss/custom.scss` file.
+// Custom styles
+// logo
+.image {
+  &-light {
+    display: block;
+  }
+  &-dark {
+    display: none;
+  }
+}
+.dark .image {
+  &-light {
+    display: none;
+  }
+  &-dark {
+    display: block;
+  }
+}
+
+// Button hover
+#nav-btn {
+  @apply border-primary bg-primary text-white hover:bg-transparent hover:text-primary  dark:border-darkmode-primary dark:text-dark dark:bg-white dark:hover:text-white dark:hover:bg-transparent;
+}
