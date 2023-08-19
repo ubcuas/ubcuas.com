@@ -1,0 +1,79 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Projects"
+weight = 2
+hasChildren = true
+
+[[main]]
+parent = "Projects"
+name = "Active Aircraft"
+url = "active-aircraft/"
+weight = 1
+
+[[main]]
+parent = "Projects"
+name = "Legacy Aircraft"
+url = "legacy-aircraft/"
+weight = 2
+
+[[main]]
+parent = "Projects"
+name = "Ground Control"
+url = "ground-control/"
+weight = 3
+
+[[main]]
+name = "Competitions"
+url = "competitions/"
+weight = 3
+
+[[main]]
+name = "Recruitment"
+url = "recruitment/"
+weight = 4
+
+[[main]]
+name = "FAQ"
+url = "faq/"
+weight = 6
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 7
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "faq/#what-is-ubc-uas"
+weight = 1
+
+# TODO: add team page
+# [[footer]]
+# name = "Team"
+# url = "team/"
+# weight = 2
+
+# TODO: re-enable sponsorships page
+# [[footer]]
+# name = "Sponsors"
+# url = "sponsorships/"
+# weight = 3
+
+[[footer]]
+name = "Blog"
+url = "blog/"
+weight = 4
+
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 5
