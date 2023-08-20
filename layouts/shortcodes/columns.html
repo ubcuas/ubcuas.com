@@ -1,7 +1,6 @@
 {{- $containerClass := .Get "containerClass" -}}
 {{- $itemClass := .Get "itemClass" -}}
 
-
 <div
     {{ with $containerClass }}
         class="{{ . }}"
@@ -15,7 +14,7 @@
             {{ else }}
                 class="flex-1 basis-80"
             {{ end }}>
-            {{ replace . "    " "" | markdownify }}
+            {{ . | safeHTML }}
         </div>
     {{- end }}
 </div>

@@ -9,5 +9,5 @@
     {{ else }}
         target="_blank"
     {{ end }}>
-    {{ replace .Inner "    " "" | markdownify }}
+    {{ .Inner }}
 </a>
