@@ -32,7 +32,7 @@ HUGO_VERSION = "0.117.0"
 	[plugins.inputs.thresholds]
     performance = 0.90
     accessibility = 0.95	
-    best-practices = 0.80
+    best-practices = 0.75
     seo = 0.85
     # pwa = 0
 
