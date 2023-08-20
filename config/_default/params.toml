@@ -57,8 +57,7 @@ show_categories = true
 keywords = ["UBC UAS", "UBC Uncrewed Aircraft Systems", "Autonomous Drones", "UBC Design Team", "UBC Engineering"]
 description = "UBC Uncrewed Aircraft Systems is a student design team that designs, builds, and flies autonomous drones."
 author = "UBC Uncrewed Aircraft Systems"
-# TODO: add image
-image = "images/og-image.png"
+image = "images/logos/uas/og-image.png"
 
 # site verifications
 [site_verification]
@@ -88,9 +87,8 @@ map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 
 # Subscription
-# TODO: add mailchimp form
 [subscription]
-enable = true
+enable = false
 # mailchimp subsciption
-mailchimp_form_action = "https://ubcuas.us4.list-manage.com/subscribe/post?u=723db365fec0facbdc454b038&amp;id=e1c21bc4a5&amp;f_id=0095b6e9f0"
+mailchimp_form_action = ""
 mailchimp_form_name = "Recruitment Notification List"

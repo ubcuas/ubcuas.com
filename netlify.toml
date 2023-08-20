@@ -23,20 +23,137 @@ command = "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSy
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.117.0"
 
+# Lighthouse Report Plugin
+# https://github.com/netlify/netlify-plugin-lighthouse#readme
+[[plugins]]
+	package = "@netlify/plugin-lighthouse"
+
+	# Set the plugin to run prior to deploy, failing the build if minimum thresholds aren't set 
+	[plugins.inputs]
+		fail_deploy_on_score_thresholds = "true"
+
+	# Set minimum thresholds for each report area
+	[plugins.inputs.thresholds]
+    performance = 0.90
+    accessibility = 0.95	
+    best-practices = 0.80
+    seo = 0.85
+    # pwa = 0
+
+  # Audit a path other than /
+  # This audit will use the top level thresholds
+  [[plugins.inputs.audits]]
+    path = "competitions"
+
+  [[plugins.inputs.audits]]
+    path = "active-aircraft"
+
+
+# Sitemap Generation Plugin
+# https://github.com/netlify-labs/netlify-plugin-sitemap#readme
+[[plugins]]
+package = "@netlify/plugin-sitemap"
+
+  [plugins.inputs]
+    # Append missing trailing slash to pretty URL
+    trailingSlash = true
+    changeFreq = "monthly"
+
+
+# Sitemap Submission Plugin
+# https://github.com/cdeleeuwe/netlify-plugin-submit-sitemap#readme
 [[plugins]]
   package = "netlify-plugin-submit-sitemap"
 
 	[plugins.inputs]
-  # https://github.com/cdeleeuwe/netlify-plugin-submit-sitemap
+    # Path to the sitemap URL (optional, default = /sitemap.xml)
+    sitemapPath = "/sitemap.xml"
 
-	# Path to the sitemap URL (optional, default = /sitemap.xml)
-	sitemapPath = "/sitemap.xml"
+    # Time in seconds to not submit the sitemap after successful submission
+    ignorePeriod = 0
 
-	# Time in seconds to not submit the sitemap after successful submission
-	ignorePeriod = 0
+    # Enabled providers to submit sitemap to (optional, default = 'google', 'yandex'). Possible providers are currently only 'google', 'yandex'.
+    providers = [
+      "google",
+      "yandex"
+    ]
 
-	# Enabled providers to submit sitemap to (optional, default = 'google', 'yandex'). Possible providers are currently only 'google', 'yandex'.
-	providers = [
-		"google",
-		"yandex"
-	]
+
+# Missing Page Plugin
+# https://github.com/swyxio/netlify-plugin-no-more-404#readme
+[[plugins]]
+package = "netlify-plugin-no-more-404"
+
+  [plugins.inputs]
+    # Either "warn" or "error"
+    on404 = "error"
+
+    # Change this key to a new one any time you need to restart from scratch
+    cacheKey = "MyCacheKey"
+
+    # (For development) turn true for extra diagnostic logging
+    debugMode = false
+
+
+# Accessibility Check Plugin
+# https://github.com/netlify-labs/netlify-plugin-a11y#readme
+[[plugins]]
+  package = "@netlify/plugin-a11y"
+
+  [plugins.inputs]
+    # Indicates which pages of your site to check
+    checkPaths = ['/']
+
+    # Whether to fail the build if a11y issues are found
+    failWithIssues = true
+
+    # Directories that should not be checked for a11y issues
+    ignoreDirectories = []
+
+    # Indicates elements that should be ignored by a11y testing
+    # ignoreElements =
+
+    # Indicates guidelines and types to ignore (pa11y docs)
+    ignoreGuidelines = []
+
+    # The WCAG standard level against which pages are checked
+    # wcagLevel =
+
+
+# Links Check Plugin
+# https://github.com/Munter/netlify-plugin-checklinks#readme
+[[plugins]]
+package = "netlify-plugin-checklinks"
+
+  [plugins.inputs]
+    # An array of glob patterns for pages on your site
+    # Recursive traversal will start from these
+    entryPoints = [
+      "*.html",
+    ]
+
+    # Recurse through all the links and asset references on your page, starting
+    # at the entrypoints
+    recursive = true
+
+    # Checklinks outputs TAP (https://testanything.org/tap-version-13-specification.html)
+    # by default. Enabling pretty mode makes the output easier on the eyes.
+    pretty = true
+
+    # You can mark some check as skipped, which will block checklinks
+    # from ever attempting to execute them.
+    # skipPatterns is an array of strings you can match against failing reports
+    skipPatterns = []
+
+    # You can mark some check as todo, which will execute the check, but allow failures.
+    # todoPatterns is an array of strings you can match against failing reports
+    todoPatterns = []
+
+    # Report on all broken links to external pages.
+    # Enabling this will make your tests more brittle, since you can't control
+    # external pages.
+    checkExternal = true
+
+    # Enable to check references to source maps, source map sources etc.
+    # Many build tools don't emit working references, so this is disabled by default
+    followSourceMaps = false

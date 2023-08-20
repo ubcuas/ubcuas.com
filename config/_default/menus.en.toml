@@ -53,7 +53,7 @@ weight = 7
 # footer menu
 [[footer]]
 name = "About"
-url = "faq/#what-is-ubc-uas"
+url = "faq/"
 weight = 1
 
 # TODO: add team page
