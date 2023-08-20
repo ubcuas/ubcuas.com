@@ -9,13 +9,12 @@
     "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
     "test": "hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify",
     "update-modules": "node ./scripts/clearModules.js && hugo mod clean --all && hugo mod get -u ./... && hugo mod tidy",
-    "remove-darkmode": "node ./scripts/removeDarkmode.js && yarn format",
     "project-setup": "node ./scripts/projectSetup.js",
-    "theme-setup": "node ./scripts/themeSetup.js",
-    "format": "prettier -w ."
+    "theme-setup": "node ./scripts/themeSetup.js"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^5.0.0",
+    "@netlify/plugin-a11y": "^1.0.0-beta.1",
     "@tailwindcss/forms": "^0.5.4",
     "@tailwindcss/typography": "^0.5.9",
     "autoprefixer": "^10.4.14",

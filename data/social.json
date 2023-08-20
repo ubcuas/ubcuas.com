@@ -3,7 +3,7 @@
     {
       "name": "instagram",
       "icon": "fab fa-instagram",
-      "link": "https://instagram.com/ubcuas"
+      "link": "https://instagram.com/ubcuas/"
     },
     {
       "name": "facebook",
@@ -18,7 +18,7 @@
     {
       "name": "github",
       "icon": "fab fa-github",
-      "link": "https://www.github.com/ubcuas"
+      "link": "https://github.com/ubcuas"
     }
   ]
 }

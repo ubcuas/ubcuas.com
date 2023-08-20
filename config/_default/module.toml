@@ -2,6 +2,10 @@
 extended = true
 min = "0.115.2"
 
+### Custom Imports
+
+### Theme Imports
+
 # [[imports]]
 # path = "github.com/zeon-studio/hugoplate"
 

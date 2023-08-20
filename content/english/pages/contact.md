@@ -12,13 +12,13 @@ draft: false
 
 <br>
 
-{{< center-text >}}
-
+{{% markdown class="text-center" %}}
 ##### If you are interested in joining the team, or would like more information about us, please send us an email!
+{{% /markdown %}}
 
 <br>
 
-{{< columns containerClass="flex flex-row flex-wrap justify-center gap-y-4 items-start" itemClass="flex-initial basis-44">}}
+{{< columns containerClass="flex flex-row text-center flex-wrap justify-center gap-y-4 items-start" itemClass="flex-initial basis-44" >}}
 
 {{< button label="Recruitment" link="mailto:recruitment@ubcuas.com" style="solid" class="" >}}
 <--->
@@ -27,5 +27,3 @@ draft: false
 {{< button label="Sponsorship" link="mailto:sponsorship@ubcuas.com" style="solid" class="" >}}
 
 {{< /columns >}}
-
-{{< /center-text >}}

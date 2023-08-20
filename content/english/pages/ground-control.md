@@ -11,7 +11,7 @@ draft: false
 <!-- TODO: add more software stuff here -->
 
 {{< columns >}}
-{{< center-text >}}
+{{% markdown class="text-center" %}}
 
 ## GCATS
 
@@ -19,7 +19,7 @@ The GCATS (Ground Control Antenna Tracking Station) family of projects are custo
 
 Their job is to autonomously track our aircraft in flight and point a directional antenna in that exact direction. This allows the team to use higher gain antennas as opposed to less optimal omnidirectional options. Additionally, the ability to modify the height of the antenna tracker counters the Fresnel effect’s impact on our operations.
 
-{{< /center-text >}}
+{{% /markdown %}}
 
 <--->
 
@@ -39,14 +39,14 @@ Their job is to autonomously track our aircraft in flight and point a directiona
 
 <--->
 
-{{< center-text >}}
+{{% markdown class="text-center" %}}
 
 <!-- TODO: update this -->
 ## GCOM
 
 Over the past years UBC UAS has been working on the next generation ground command software (GCOM). A single suit that acts as a data consolidation platform, it gathers information about the UAS from multiple sources (e.g. Mavlink) and provides the following functionality:
 
-{{< /center-text >}}
+{{% /markdown %}}
 
 - Antenna tracker control
 - Drone communication and control
@@ -54,12 +54,12 @@ Over the past years UBC UAS has been working on the next generation ground comma
 - Reliable Image download
 - Image object detection
 - Image geotagging
-- Analytics on processed images 
+- Analytics on processed images
 - Autonomously report generation
 
-{{< center-text >}}
+{{% markdown class="text-center" %}}
 
 In addition to the above functionalities, GCOM was designed with reliability and modularity in mind. This allows UBC UAS to achieve higher reliability standards since each module can be independently tested against all possible inputs. Additionally, GCOM operates using a fully reliable communication protocol developed to transmit variable length data between any two devices (UAS Message) that utilize serial, TCP, or UDP communications.
 
-{{< /center-text >}}
+{{% /markdown %}}
 {{< /columns >}}
