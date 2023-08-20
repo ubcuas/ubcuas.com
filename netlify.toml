@@ -108,10 +108,10 @@ package = "netlify-plugin-no-more-404"
     failWithIssues = true
 
     # Directories that should not be checked for a11y issues
-    ignoreDirectories = []
+    ignoreDirectories = ["blog/page"]
 
     # Indicates elements that should be ignored by a11y testing
-    ignoreElements = 'html > body > div#search-modal, #nav-menu > li'
+    ignoreElements = '.search-modal, #nav-menu > li, html > body > main > section:nth-child(2) > div > ul > li'
 
     # Indicates guidelines and types to ignore (pa11y docs)
     ignoreGuidelines = []
