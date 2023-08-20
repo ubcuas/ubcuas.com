@@ -55,7 +55,7 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
 keywords = ["UBC UAS", "UBC Uncrewed Aircraft Systems", "Autonomous Drones", "UBC Design Team", "UBC Engineering"]
-description = "UBC Uncrewed Aircraft Systems is a student design team that designs, builds, and flies autonomous drones."
+description = "UBC UAS is a student design team that designs, builds, and flys autonomous drones with the aim to push innovation and inspire the next generation of professionals."
 author = "UBC Uncrewed Aircraft Systems"
 image = "images/logos/uas/og-image.png"
 
