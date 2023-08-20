@@ -1,10 +1,21 @@
 {{- $containerClass := .Get "containerClass" -}}
 {{- $itemClass := .Get "itemClass" -}}
 
-<div {{ with $containerClass }}class="{{ . }}"{{ else }}class="flex flex-row flex-wrap gap-10 justify-center items-start"{{ end }}> 
-  {{- range split .Inner "<--->" }}
-    <div {{ with $itemClass }}class="{{ . }}"{{ else }}class="flex-1 basis-80"{{ end }}>
-      {{ replace . "    " "" | markdownify }}
-    </div>
-  {{- end }}
+
+<div
+    {{ with $containerClass }}
+        class="{{ . }}"
+    {{ else }}
+        class="flex flex-row flex-wrap gap-10 justify-center items-start"
+    {{ end }}>
+    {{- range split .Inner "<--->" }}
+        <div
+            {{ with $itemClass }}
+                class="{{ . }}"
+            {{ else }}
+                class="flex-1 basis-80"
+            {{ end }}>
+            {{ replace . "    " "" | markdownify }}
+        </div>
+    {{- end }}
 </div>

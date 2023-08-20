@@ -1,3 +1,5 @@
-<div {{ with .Get "class" }}class="{{.}}"{{ end }}>
-    {{ replace .Inner "    " "" | safeHTML }}
+{{- $class := .Get "class" | default "" -}}
+
+<div class="{{ $class }}">
+    {{ replace .Inner "    " "" | markdownify }}
 </div>
