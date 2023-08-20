@@ -8,6 +8,8 @@ description: "The UBC UAS team competes in the SUAS and AEAC competitions every 
 draft: false
 ---
 
+<!-- TODO: make the load times way faster -->
+
 {{< slider dir="images/competition" class="max-w-2xl" height="" width="" webp="true" command="Fit" option="" zoomable="true" >}}
 
 <br>
@@ -17,7 +19,6 @@ draft: false
 ##### **Aerial Evolution Association of Canada (AEAC)**
 
 For the 2022 competition, AEAC created a simulated embassy protection mission. Our system was first tasked with reading information from a QR code and autonomously taking off to the coordinates within that data. We then had to track an intruder and answer questions about them found in the QR code data. Our next task was remotely identifying and retrieving a suspicious package. We added ground driving capabilities to our drone with an extendable claw and camera feed to line up and grab the package. The competition took place between May 6th and May 8th.
-
 
 {{< linked-element link="https://www.aerialevolution.ca/annual-student-competition/" >}}
 

@@ -54,7 +54,7 @@ Over the past years UBC UAS has been working on the next generation ground comma
 - Reliable Image download
 - Image object detection
 - Image geotagging
-- Analytics on processed images 
+- Analytics on processed images
 - Autonomously report generation
 
 {{< center-text >}}

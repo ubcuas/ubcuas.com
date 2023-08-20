@@ -8,6 +8,8 @@ description: "Check out the frequently asked questions about our team."
 draft: false
 ---
 
+<!-- TODO: make the load times way faster -->
+
 {{< slider dir="images/faq" class="max-w-xl" height="" width="" webp="true" command="Fit" option="" zoomable="true" >}}
 
 <hr>
@@ -28,13 +30,13 @@ YES! UBC UAS is fully insured and has a number of Advanced class licensed RPAS p
 
 {{< accordion "How can I legally fly my own drones?" >}}
 
-As of June 1, 2019, any aircraft in flight weighing more than 250g requires the pilot to have at least a ‘Basic certificate’ from Transport Canada. Flying within built up areas or near airports requires an ‘Advanced certificate’. Please consult the Transport Canada website or a local drone flight school like [Coastal Drone](https://coastaldrone.co/) or [11alpha](https://11alpha.ca/) for more information. 
+As of June 1, 2019, any aircraft in flight weighing more than 250g requires the pilot to have at least a ‘Basic certificate’ from Transport Canada. Flying within built up areas or near airports requires an ‘Advanced certificate’. Please consult the Transport Canada website or a local drone flight school like [Coastal Drone](https://coastaldrone.co/) or [11alpha](https://11alpha.ca/) for more information.
 
 {{< /accordion >}}
 
 {{< accordion "Does UBC UAS rent out drones?" >}}
 
-No. Unfortunately, UBC UAS does not have the capacity to rent out drones. If you’re interested in renting a drone for your own projects, there are multiple companies in the Vancouver area that will rent out DJI drones and even provide training and licensing. 
+No. Unfortunately, UBC UAS does not have the capacity to rent out drones. If you’re interested in renting a drone for your own projects, there are multiple companies in the Vancouver area that will rent out DJI drones and even provide training and licensing.
 
 {{< /accordion >}}
 
