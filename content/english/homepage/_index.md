@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "UBC Uncrewed Aircraft Systems"
-  content: "We are a multidisciplinary UBC design team that specializes in building autonomous drones and their support systems with the aim to push innovation and inspire the next generation of professionals."
+  content: "We are a multidisciplinary UBC design team that specializes in building autonomous drones and their support systems. We aim to push innovation and inspire the next generation of professionals."
   imageLight: "/images/aircraft/beetle-front-dark.png"
   imageDark: "/images/aircraft/beetle-front-light.png"
   button:

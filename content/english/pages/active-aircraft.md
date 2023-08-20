@@ -9,13 +9,13 @@ draft: false
 ---
 
 {{< columns >}}
-{{< center-text >}}
+{{% markdown class="text-center" %}}
 
 ## Dragonfly
 
 Our newest project and the team's second VTOL project to date. The aircraft is designed to be super modular, allowing for quick and easy payload changes as well as easy disassembly. The team is currently working on Dragonfly to improve its flight performance and capabilities.
 
-{{< /center-text >}}
+{{% /markdown %}}
 
 <--->
 
@@ -31,7 +31,7 @@ Our newest project and the team's second VTOL project to date. The aircraft is d
 
 <--->
 
-{{< center-text >}}
+{{% markdown class="text-center" %}}
 
 ## Hummingbird
 
@@ -39,5 +39,5 @@ The Hummingbird Project was the team’s response to the need for a more precise
 
 As the years have progressed, Hummingbird has retained its strong performance and so it continues to be used as a test drone for software and camera systems.
 
-{{< /center-text >}}
+{{% /markdown %}}
 {{< /columns >}}
