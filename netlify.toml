@@ -40,13 +40,16 @@ HUGO_VERSION = "0.117.0"
     seo = 0.85
     # pwa = 0
 
+  [[plugins.inputs.audits]]
+    path = "/"
+
   # Audit a path other than /
   # This audit will use the top level thresholds
   [[plugins.inputs.audits]]
-    path = "competitions"
+    path = "competitions/"
 
   [[plugins.inputs.audits]]
-    path = "active-aircraft"
+    path = "active-aircraft/"
 
 
 # Sitemap Generation Plugin
@@ -108,7 +111,7 @@ package = "netlify-plugin-no-more-404"
     failWithIssues = true
 
     # Directories that should not be checked for a11y issues
-    ignoreDirectories = ["/blog/page/1"]
+    ignoreDirectories = ["1"]
 
     # Indicates elements that should be ignored by a11y testing
     ignoreElements = '.search-modal, #nav-menu > li, html > body > main > section:nth-child(2) > div > ul > li'
