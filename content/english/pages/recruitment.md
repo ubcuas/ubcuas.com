@@ -26,7 +26,7 @@ Thank you for your interest in UBC UAS. **Applications are not open yet, but the
 
 {{% markdown class="pt-2" %}}
 
-UBC UAS is a great place to get a taste of industry, develop a diverse range of technical skills, network with like-minded individuals, and work on meaningful projects. Every year we design and build new systems from the ground up for our national Aerial Evolution Association of Canada (AEAC) competition and international Student Unmanned Aerial Systems (SUAS) competition hosted by the RoboNation. We also like to have fun -we treat our design team members likefamily and host regular socials.
+UBC UAS is a great place to get a taste of industry, develop a diverse range of technical skills, network with like-minded individuals, and work on meaningful projects. Every year we design and build new systems from the ground up for our national Aerial Evolution Association of Canada (AEAC) competition and international Student Unmanned Aerial Systems (SUAS) competition hosted by the RoboNation. We also like to have fun - we treat our design team members like family and host regular socials.
 
 {{% /markdown %}}
 {{< /columns >}}
