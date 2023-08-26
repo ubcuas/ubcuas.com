@@ -110,7 +110,7 @@ Design of electrical systems within our aircraft, working closely with software 
 {{% markdown class="text-center pt-4 pb-3" %}}
 #### Payload Roles
 
-The payload sub-team creates mission-specific payload systems for competition. The sub-team works on projects including autonomous delivery rovers, winch mechanisms,and anything capable of interfacing with the aircraft. These projects involve the integration of multiple engineering disciplines.
+The payload sub-team creates mission-specific payload systems for competition. The sub-team works on projects including autonomous delivery rovers, winch mechanisms, and anything capable of interfacing with the aircraft. These projects involve the integration of multiple engineering disciplines.
 {{% /markdown %}}
 
 ##### Mechanical Designer
@@ -145,7 +145,7 @@ The events coordinator is responsible for organizing and planning team events. T
 The finance manager is responsible for managing the team’s finances. This includes managing the team’s budget, applying for grants, managing sponsorships, and delegating finance work to executive members. This role is a great opportunity to develop your financial knowledge, leadership, and organizational skills.
 
 #### Social Media Associate
-Working alongside our social media manager, you will assist with promoting the team and its projects on social media. This includes creating content for our social media platforms, managing our social media accounts, and engaging with our followers. This role is a great opportunity to use your creativity as well as develop your communication, marketing, and organizational.
+Working alongside our social media manager, you will assist with promoting the team and its projects on social media. This includes creating content for our social media platforms, managing our social media accounts, and engaging with our followers. This role is a great opportunity to use your creativity as well as develop your communication and marketing skills.
 
 {{% markdown class="text-center pt-4 pb-3" %}}
 ## FAQ
@@ -164,7 +164,7 @@ The application process includes a general submission (with your resume, desired
 {{< /accordion >}}
 
 {{< accordion title="What are the different roles?" >}}
-There are openings for our 3 sub-teams: Aircraft, Payload, and Software. If you are looking to build skills in mechanical, electrical, robotics, or software engineering, we encourage you to apply! We are also recruiting for our business team which includes roles in finance, marketing, and events.
+There are openings for our 3 sub-teams: Aircraft, Payload, and Software. If you are looking to build skills in mechanical, electrical, robotics, or software engineering, we encourage you to apply! We are also recruiting for our admin team which includes roles in finance, marketing, and events.
 {{< /accordion >}}
 
 {{< accordion title="What can I expect as a First/Second Year?" >}}
