@@ -8,11 +8,15 @@ description: "Find out all the details about our recruitment process!"
 draft: false
 ---
 
-{{< notice "note" >}}
+{{% markdown class="text-center" %}}
+## Application Links
+{{% /markdown %}}
 
-Thank you for your interest in UBC UAS. **Applications are not open yet, but they will be on August 28th!** Check back here for the form links at that time. You can check out the information below to be ready for when the applications open.
-
-{{< /notice >}}
+{{< columns containerClass="pt-4 pb-10 flex flex-row text-center flex-wrap justify-center gap-y-4 items-start" itemClass="flex-initial basis-72" >}}
+{{< button label="General Member Application" link="https://docs.google.com/forms/d/e/1FAIpQLScHP2ajn2SRxPsoiocpCjNEpqbV7wg9HjPjquSBdS_hlO84yw/viewform?usp=sf_link" >}}
+<--->
+{{< button label="Admin Team Application" link="https://docs.google.com/forms/d/e/1FAIpQLSf0-Tbmag3z6mE2p7Jgt1Vho1tknbMvY666cRwO8cArjXEiqg/viewform?usp=sf_link" >}}
+{{< /columns >}}
 
 {{% markdown class="text-center pt-6" %}}
 ## Why Join UBC Uncrewed Aircraft Systems?
