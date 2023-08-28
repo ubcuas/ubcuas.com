@@ -11,7 +11,7 @@ draft: true
 ## Application buttons
 
 {{% markdown class="text-center" %}}
-## Applications
+## Application Links
 {{% /markdown %}}
 
 {{< columns containerClass="pt-4 pb-10 flex flex-row text-center flex-wrap justify-center gap-y-4 items-start" itemClass="flex-initial basis-72" >}}
@@ -24,7 +24,7 @@ draft: true
 
 {{< notice "note" >}}
 
-Thank you for your interest in UBC UAS. **Applications are not open yet, but they will be on August 28th!** Check back here for the form link at that time. You can check out the information below to be ready for when the applications open.
+Thank you for your interest in UBC UAS. **Applications are not open yet, but they will be on August 28th!** Check back here for the form links at that time. You can check out the information below to be ready for when the applications open.
 
 {{< /notice >}}
 
