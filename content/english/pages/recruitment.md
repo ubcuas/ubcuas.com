@@ -72,7 +72,8 @@ Come visit us at one of the upcoming events to ask questions and learn more abou
 
 - **Date:** September 5th
 - **Time:**  1:00 - 4:30 PM
-- **Location:** Main Mall
+- **Location:** Main Mall - Zone TBA
+  - [Map](/pdfs/imagine-day-map.pdf)
 {{% /markdown %}}
 
 <--->
@@ -83,7 +84,9 @@ Come visit us at one of the upcoming events to ask questions and learn more abou
 - **Date:** September 7th
 - **Time:** 6:30 - 7:30 PM
 - **Info:** Presentation and Q&A
-- **Location:** TBA
+- **Location:** DMP - 301
+  - [Location Information](https://learningspaces.ubc.ca/classrooms/dmp-301)
+  - [Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NmwyNzdwZjE3YjYwZ3BrYXJma2dsdDNkNzQgY19lZTAzNTE0ZmU4ODQzNGM5MmJkMjNlYmI0MjNmNGVkZTllNDg0YWFkYjViZmRiOGU2MGVjMTMwMjY0ODJkNmE2QGc&tmsrc=c_ee03514fe88434c92bd23ebb423f4ede9e484aadb5bfdb8e60ec13026482d6a6%40group.calendar.google.com)
 {{% /markdown %}}
 {{< /columns >}}
 
