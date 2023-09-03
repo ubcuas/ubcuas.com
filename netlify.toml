@@ -37,15 +37,15 @@ HUGO_VERSION = "0.117.0"
     # pwa = 0
 
   [[plugins.inputs.audits]]
-    path = "$DEPLOY_PRIME_URL"
+    url = "$DEPLOY_PRIME_URL"
 
   # Audit a path other than /
   # This audit will use the top level thresholds
   [[plugins.inputs.audits]]
-    path = "$DEPLOY_PRIME_URL/competitions/"
+    url = "$DEPLOY_PRIME_URL/competitions/"
 
   [[plugins.inputs.audits]]
-    path = "$DEPLOY_PRIME_URL/active-aircraft/"
+    url = "$DEPLOY_PRIME_URL/active-aircraft/"
 
 
 # Sitemap Generation Plugin
