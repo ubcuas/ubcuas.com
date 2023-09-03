@@ -72,8 +72,8 @@ Come visit us at one of the upcoming events to ask questions and learn more abou
 
 - **Date:** September 5th
 - **Time:**  1:00 - 4:30 PM
-- **Location:** Main Mall - Zone TBA
-  - [Map](/pdfs/imagine-day-map.pdf)
+- **Location:** Main Mall
+  - [Zone 2: Side 1](/pdfs/imagine-day-map.pdf)
 {{% /markdown %}}
 
 <--->
