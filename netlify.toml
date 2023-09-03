@@ -31,21 +31,21 @@ HUGO_VERSION = "0.117.0"
 	# Set minimum thresholds for each report area
 	[plugins.inputs.thresholds]
     performance = 0.90
-    accessibility = 0.95	
+    accessibility = 0.95
     best-practices = 0.75
     seo = 0.85
     # pwa = 0
 
   [[plugins.inputs.audits]]
-    path = ""
+    path = "$DEPLOY_PRIME_URL"
 
   # Audit a path other than /
   # This audit will use the top level thresholds
   [[plugins.inputs.audits]]
-    path = "competitions/"
+    path = "$DEPLOY_PRIME_URL/competitions/"
 
   [[plugins.inputs.audits]]
-    path = "active-aircraft/"
+    path = "$DEPLOY_PRIME_URL/active-aircraft/"
 
 
 # Sitemap Generation Plugin
