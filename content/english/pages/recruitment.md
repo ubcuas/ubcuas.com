@@ -145,11 +145,13 @@ All projects are up for grabs (everyone gets to choose at the start of the year 
 ### Admin Team Roles
 {{% /markdown %}}
 
-#### Events Coordinator
-The events coordinator is responsible for organizing and planning team events. This includes team socials, workshops, and trips. The events coordinator will also be responsible for organizing and planning public events such as recruitment events. This role is a great opportunity to develop your leadership, communication, and organizational skills.
+[//]: # (#### Events Coordinator)
 
-#### Finance Manager
-The finance manager is responsible for managing the team’s finances. This includes managing the team’s budget, applying for grants, managing sponsorships, and delegating finance work to executive members. This role is a great opportunity to develop your financial knowledge, leadership, and organizational skills.
+[//]: # (The events coordinator is responsible for organizing and planning team events. This includes team socials, workshops, and trips. The events coordinator will also be responsible for organizing and planning public events such as recruitment events. This role is a great opportunity to develop your leadership, communication, and organizational skills.)
+
+[//]: # (#### Finance Manager)
+
+[//]: # (The finance manager is responsible for managing the team’s finances. This includes managing the team’s budget, applying for grants, managing sponsorships, and delegating finance work to executive members. This role is a great opportunity to develop your financial knowledge, leadership, and organizational skills.)
 
 #### Social Media Associate
 Working alongside our social media manager, you will assist with promoting the team and its projects on social media. This includes creating content for our social media platforms, managing our social media accounts, and engaging with our followers. This role is a great opportunity to use your creativity as well as develop your communication and marketing skills.
