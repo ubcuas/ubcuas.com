@@ -15,6 +15,13 @@ This is the repository for the UBC UAS website. The website is built using [Hugo
 
 #### Setup
 
+- Clone theme submodule
+
+    ```bash
+    git submodule init
+    git submodule update
+    ```
+
 - Install dependencies
 
     ```bash
@@ -26,6 +33,12 @@ This is the repository for the UBC UAS website. The website is built using [Hugo
     ```bash
     npm run dev
     ```
+
+#### Update Theme
+
+```bash
+git submodule update --remote
+```
 
 #### Update Modules
     
@@ -42,6 +55,9 @@ npm run build
 ### Structure
 
 ```
+.vscode/
+    extensions.json                    # Suggested extensions
+
 assets/                                # Static assets
     images/                            # Images
     scss/                              # Custom CSS files
@@ -82,7 +98,7 @@ layouts/                               # Layout files (new items or overrides th
 
 scripts/                               # Scripts from the theme for setup and updates
 
-themes/hugoplate                       # Theme files - DO NOT CHANGE
+themes/hugoplate                       # Theme files - pulled from git submodule
 
 .editorconfig                          # Editor configuration
 .jshintrc                              # JSHint configuration
