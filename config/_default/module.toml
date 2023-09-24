@@ -6,9 +6,6 @@ min = "0.115.2"
 
 ### Theme Imports
 
-# [[imports]]
-# path = "github.com/zeon-studio/hugoplate"
-
 [[imports]]
 path = "github.com/gethugothemes/hugo-modules/search"
 
