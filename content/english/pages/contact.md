@@ -24,6 +24,6 @@ draft: false
 <--->
 {{< button label="General Inquiries" link="mailto:info@ubcuas.com" style="solid" class="" >}}
 <--->
-{{< button label="Sponsorship" link="mailto:sponsorship@ubcuas.com" style="solid" class="" >}}
+{{< button label="Sponsorships" link="mailto:sponsorship@ubcuas.com" style="solid" class="" >}}
 
 {{< /columns >}}

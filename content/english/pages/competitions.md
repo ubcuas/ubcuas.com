@@ -25,7 +25,7 @@ For the 2022 competition, AEAC created a simulated embassy protection mission. O
 
 {{< linked-element link="https://www.aerialevolution.ca/annual-student-competition/" >}}
 
-{{< image src="images/logos/other/aeac.png" caption="" alt="AEAC Logo" height="" width="" position="center" command="fill" option="q100" class="" title="" >}}
+{{< image src="images/logos/competitions/aeac.png" caption="" alt="AEAC Logo" height="" width="" position="center" command="fill" option="q100" class="" title="" >}}
 
 {{< /linked-element >}}
 
@@ -41,7 +41,7 @@ UBC UAS built a large, fast, multi-rotor capable of performing autonomous flight
 
 {{< linked-element link="https://suas-competition.org/" >}}
 
-{{< image src="images/logos/other/suas.png" caption="" alt="SUAS Logo" height="" width="175" position="center" command="Fit" class="px-30" title="" >}}
+{{< image src="images/logos/competitions/suas.png" caption="" alt="SUAS Logo" height="" width="175" position="center" command="Fit" class="px-30" title="" >}}
 
 {{< /linked-element >}}
 {{< /columns >}}
