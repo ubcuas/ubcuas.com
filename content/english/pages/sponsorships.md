@@ -38,8 +38,10 @@ Your support allows students to gain the most from their UBC education by creati
 ## Title
 {{% /markdown %}}
 
+{{< linked-element link="https://apsc.ubc.ca" >}}
 {{< image src="images/logos/sponsors/apsc-blue.png" caption="" alt="UBC Applied Science" height="" width="700" position="" command="Fit" class="mx-auto image-light" title="" >}}
 {{< image src="images/logos/sponsors/apsc-white.png" caption="" alt="UBC Applied Science" height="" width="700" position="" command="Fit" class="mx-auto image-dark" title="" >}}
+{{< /linked-element >}}
 
 <hr>
 
@@ -49,14 +51,20 @@ Your support allows students to gain the most from their UBC education by creati
 
 {{< columns containerClass="flex items-center flex-row text-center flex-wrap justify-center gap-x-8 gap-y-4 items-start" itemClass="flex-initial basis-80" >}}
 
+{{< linked-element link="https://onshape.com" >}}
 {{< image src="images/logos/sponsors/onshape-colour.svg" caption="" alt="UBC Walter Gage Memorial Fund" height="" width="400" position="" command="Fit" class="mx-auto !my-0 image-light" title="" >}}
 {{< image src="images/logos/sponsors/onshape-white.svg" caption="" alt="UBC Walter Gage Memorial Fund" height="" width="400" position="" command="Fit" class="mx-auto !my-0 image-dark" title="" >}}
+{{< /linked-element >}}
 <--->
+{{< linked-element link="https://altium.com" >}}
 {{< image src="images/logos/sponsors/altium-black.svg" caption="" alt="UBC Walter Gage Memorial Fund" height="" width="300" position="" command="Fit" class="mx-auto !my-0 image-light" title="" >}}
 {{< image src="images/logos/sponsors/altium-white.svg" caption="" alt="UBC Walter Gage Memorial Fund" height="" width="300" position="" command="Fit" class="mx-auto !my-0 image-dark" title="" >}}
+{{< /linked-element >}}
 <--->
+{{< linked-element link="https://atlassian.com" >}}
 {{< image src="images/logos/sponsors/atlassian-blue.svg" caption="" alt="UBC Walter Gage Memorial Fund" height="" width="400" position="" command="Fit" class="mx-auto !my-0 !py-8 image-light" title="" >}}
 {{< image src="images/logos/sponsors/atlassian-white.svg" caption="" alt="UBC Walter Gage Memorial Fund" height="" width="400" position="" command="Fit" class="mx-auto !my-0 !py-8 image-dark" title="" >}}
+{{< /linked-element >}}
 
 {{< /columns >}}
 
@@ -66,8 +74,9 @@ Your support allows students to gain the most from their UBC education by creati
 ### Silver
 {{% /markdown %}}
 
+{{< linked-element link="https://vpstudents.ubc.ca/walter-gage/" >}}
 {{< image src="images/logos/sponsors/walter-gage.svg" caption="" alt="UBC Walter Gage Memorial Fund" height="" width="300" position="center" command="Fit" class="" title="" >}}
-
+{{< /linked-element >}}
 <hr>
 
 {{% markdown class="text-center" %}}
@@ -80,4 +89,6 @@ Your support allows students to gain the most from their UBC education by creati
 #### Contributor
 {{% /markdown %}}
 
+{{< linked-element link="https://stickermule.com/" >}}
 {{< image src="images/logos/sponsors/sticker-mule.svg" caption="" alt="Sticker Mule" height="" width="200" position="center" command="Fit" class="" title="" >}}
+{{< /linked-element >}}
