@@ -35,7 +35,7 @@ Your support allows students to gain the most from their UBC education by creati
 <hr>
 
 {{% markdown class="text-center" %}}
-## Title
+## Title Sponsors
 {{% /markdown %}}
 
 {{< linked-element link="https://apsc.ubc.ca" >}}
