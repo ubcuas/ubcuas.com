@@ -4,9 +4,7 @@
         <!-- logo -->
         <div class="order-0">
             <!-- navbar brand/logo -->
-            <a
-                class="navbar-brand block"
-                href="{{ site.BaseURL | relLangURL }}">
+            <a class="navbar-brand block" href="{{ site.Home.RelPermalink }}">
                 {{ partial "logo" }}
             </a>
         </div>
@@ -74,7 +72,7 @@
                                         {{ end }}
                                         href="{{- if findRE `^#` .URL -}}
                                             {{- if not $.IsHome -}}
-                                                {{- site.BaseURL | relLangURL -}}
+                                                {{- site.Home.RelPermalink -}}
                                             {{- end }}
                                             {{- .URL -}}
                                         {{- else -}}
@@ -95,7 +93,7 @@
                             {{ end }}
                             href="{{- if findRE `^#` .URL -}}
                                 {{- if not $.IsHome -}}
-                                    {{- site.BaseURL | relLangURL -}}
+                                    {{- site.Home.RelPermalink -}}
                                 {{- end }}{{- .URL -}}
                             {{- else -}}
                                 {{- .URL | relLangURL -}}
@@ -137,7 +135,6 @@
                 <a
                     href="{{ site.Params.navigation_button.link | relLangURL }}"
                     id="nav-btn"
-                    target="_blank"
                     class="btn btn-primary btn-sm hidden lg:inline-block">
                     {{ site.Params.navigation_button.label }}
                 </a>

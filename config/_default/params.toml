@@ -16,7 +16,7 @@ logo_text = "UBC UAS"
 navbar_fixed = true
 # theme-mode
 theme_switcher = true
-theme_default = "system" # available options [light/dark/system]
+theme_default = "light" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"] # used for related posts section
 # contact form action
@@ -38,9 +38,7 @@ preloader = "png" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Sponsor Us"
-link = "https://donate.give.ubc.ca/page/80953/donate/1?transaction.dirgift=UBC+Uncrewed+Aircraft+Systems+%28UAS%29%20G2333"
-# TODO: change to sponsorships page
-# link = "sponsorships"
+link = "sponsorships"
 
 # search
 [search]
