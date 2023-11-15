@@ -62,16 +62,15 @@ weight = 1
 # url = "team/"
 # weight = 2
 
-# TODO: re-enable sponsorships page
-# [[footer]]
-# name = "Sponsors"
-# url = "sponsorships/"
-# weight = 3
+ [[footer]]
+ name = "Sponsors"
+ url = "sponsorships#current-sponsors"
+ weight = 3
 
-[[footer]]
-name = "Blog"
-url = "blog/"
-weight = 4
+# [[footer]]
+# name = "Blog"
+# url = "blog/"
+# weight = 4
 
 [[footer]]
 name = "Contact"
