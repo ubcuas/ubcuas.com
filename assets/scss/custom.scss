@@ -21,3 +21,7 @@
 #nav-btn {
     @apply border-primary bg-primary text-white hover:bg-transparent hover:text-primary  dark:border-darkmode-primary dark:text-dark dark:bg-white dark:hover:text-white dark:hover:bg-transparent;
 }
+
+div .gallery-slider {
+    @apply mx-auto #{!important};
+}

@@ -52,18 +52,23 @@ Your support allows students to gain the most from their UBC education by creati
 {{< columns containerClass="flex items-center flex-row text-center flex-wrap justify-center gap-x-8 gap-y-4 items-start" itemClass="flex-initial basis-80" >}}
 
 {{< linked-element link="https://onshape.com" >}}
-{{< image src="images/logos/sponsors/onshape-colour.svg" caption="" alt="UBC Walter Gage Memorial Fund" height="" width="400" position="" command="Fit" class="mx-auto !my-0 image-light" title="" >}}
-{{< image src="images/logos/sponsors/onshape-white.svg" caption="" alt="UBC Walter Gage Memorial Fund" height="" width="400" position="" command="Fit" class="mx-auto !my-0 image-dark" title="" >}}
+{{< image src="images/logos/sponsors/onshape-colour.svg" caption="" alt="OnShape Logo" height="" width="400" position="" command="Fit" class="mx-auto !my-0 image-light" title="" >}}
+{{< image src="images/logos/sponsors/onshape-white.svg" caption="" alt="OnShape Logo" height="" width="400" position="" command="Fit" class="mx-auto !my-0 image-dark" title="" >}}
 {{< /linked-element >}}
 <--->
 {{< linked-element link="https://altium.com" >}}
-{{< image src="images/logos/sponsors/altium-black.svg" caption="" alt="UBC Walter Gage Memorial Fund" height="" width="300" position="" command="Fit" class="mx-auto !my-0 image-light" title="" >}}
-{{< image src="images/logos/sponsors/altium-white.svg" caption="" alt="UBC Walter Gage Memorial Fund" height="" width="300" position="" command="Fit" class="mx-auto !my-0 image-dark" title="" >}}
+{{< image src="images/logos/sponsors/altium-black.svg" caption="" alt="Altium Logo" height="" width="300" position="" command="Fit" class="mx-auto !my-0 image-light" title="" >}}
+{{< image src="images/logos/sponsors/altium-white.svg" caption="" alt="Altium" height="" width="300" position="" command="Fit" class="mx-auto !my-0 image-dark" title="" >}}
 {{< /linked-element >}}
 <--->
 {{< linked-element link="https://atlassian.com" >}}
-{{< image src="images/logos/sponsors/atlassian-blue.svg" caption="" alt="UBC Walter Gage Memorial Fund" height="" width="400" position="" command="Fit" class="mx-auto !my-0 !py-8 image-light" title="" >}}
-{{< image src="images/logos/sponsors/atlassian-white.svg" caption="" alt="UBC Walter Gage Memorial Fund" height="" width="400" position="" command="Fit" class="mx-auto !my-0 !py-8 image-dark" title="" >}}
+{{< image src="images/logos/sponsors/atlassian-blue.svg" caption="" alt="Atlassian Logo" height="" width="400" position="" command="Fit" class="mx-auto !my-0 !py-8 image-light" title="" >}}
+{{< image src="images/logos/sponsors/atlassian-white.svg" caption="" alt="Atlassian Logo" height="" width="400" position="" command="Fit" class="mx-auto !my-0 !py-8 image-dark" title="" >}}
+{{< /linked-element >}}
+<--->
+{{< linked-element link="https://coastaldrone.co" >}}
+{{< image src="images/logos/sponsors/coastal-drone-black.png" caption="" alt="Coastal Drone Logo" height="" width="400" position="" command="Fit" class="mx-auto !my-0 !py-8 image-light" title="" >}}
+{{< image src="images/logos/sponsors/coastal-drone-white.png" caption="" alt="Coastal Drone Logo" height="" width="400" position="" command="Fit" class="mx-auto !my-0 !py-8 image-dark" title="" >}}
 {{< /linked-element >}}
 
 {{< /columns >}}
@@ -75,13 +80,18 @@ Your support allows students to gain the most from their UBC education by creati
 {{% /markdown %}}
 
 {{< linked-element link="https://vpstudents.ubc.ca/walter-gage/" >}}
-{{< image src="images/logos/sponsors/walter-gage.svg" caption="" alt="UBC Walter Gage Memorial Fund" height="" width="300" position="center" command="Fit" class="" title="" >}}
+{{< image src="images/logos/sponsors/walter-gage.svg" caption="" alt="UBC Walter Gage Memorial Fund Logo" height="" width="300" position="center" command="Fit" class="" title="" >}}
 {{< /linked-element >}}
 <hr>
 
 {{% markdown class="text-center" %}}
 ### Bronze
 {{% /markdown %}}
+
+{{< linked-element link="https://docker.com" >}}
+{{< image src="images/logos/sponsors/docker-blue.svg" caption="" alt="Docker Logo" height="" width="250" position="" command="Fit" class="mx-auto !my-0 !py-8 image-light" title="" >}}
+{{< image src="images/logos/sponsors/docker-white.svg" caption="" alt="Docker Logo" height="" width="250" position="" command="Fit" class="mx-auto !my-0 !py-8 image-dark" title="" >}}
+{{< /linked-element >}}
 
 <hr>
 
@@ -90,5 +100,5 @@ Your support allows students to gain the most from their UBC education by creati
 {{% /markdown %}}
 
 {{< linked-element link="https://stickermule.com/" >}}
-{{< image src="images/logos/sponsors/sticker-mule.svg" caption="" alt="Sticker Mule" height="" width="200" position="center" command="Fit" class="" title="" >}}
+{{< image src="images/logos/sponsors/sticker-mule.svg" caption="" alt="Sticker Mule Logo" height="" width="200" position="center" command="Fit" class="" title="" >}}
 {{< /linked-element >}}
