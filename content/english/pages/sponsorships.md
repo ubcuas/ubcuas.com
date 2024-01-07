@@ -79,19 +79,38 @@ Your support allows students to gain the most from their UBC education by creati
 ### Silver
 {{% /markdown %}}
 
+{{< columns containerClass="flex items-center flex-row text-center flex-wrap justify-center gap-x-8 gap-y-4 items-start" itemClass="flex-initial basis-80" >}}
+
 {{< linked-element link="https://vpstudents.ubc.ca/walter-gage/" >}}
-{{< image src="images/logos/sponsors/walter-gage.svg" caption="" alt="UBC Walter Gage Memorial Fund Logo" height="" width="300" position="center" command="Fit" class="" title="" >}}
+{{< image src="images/logos/sponsors/walter-gage.svg" caption="" alt="UBC Walter Gage Memorial Fund Logo" height="" width="300" position="" command="Fit" class="mx-auto" title="" >}}
 {{< /linked-element >}}
+<--->
+{{< linked-element link="https://cubepilot.org/" >}}
+{{< image src="images/logos/sponsors/cubepilot-black.png" caption="" alt="CubePilot Logo" height="" width="300" position="" command="Fit" class="mx-auto !my-0 image-light" title="" >}}
+{{< image src="images/logos/sponsors/cubepilot-white.png" caption="" alt="CubePilot Logo" height="" width="300" position="" command="Fit" class="mx-auto !my-0 image-dark" title="" >}}
+{{< /linked-element >}}
+
+{{< /columns >}}
+
 <hr>
 
 {{% markdown class="text-center" %}}
 ### Bronze
 {{% /markdown %}}
 
+{{< columns containerClass="flex items-center flex-row text-center flex-wrap justify-center gap-x-4 gap-y-4 items-start" itemClass="flex-initial basis-72" >}}
+
 {{< linked-element link="https://docker.com" >}}
 {{< image src="images/logos/sponsors/docker-blue.svg" caption="" alt="Docker Logo" height="" width="250" position="" command="Fit" class="mx-auto !my-0 !py-8 image-light" title="" >}}
 {{< image src="images/logos/sponsors/docker-white.svg" caption="" alt="Docker Logo" height="" width="250" position="" command="Fit" class="mx-auto !my-0 !py-8 image-dark" title="" >}}
 {{< /linked-element >}}
+<--->
+{{< linked-element link="https://www.simnet.aero/" >}}
+{{< image src="images/logos/sponsors/simnet-black.png" caption="" alt="SIMNET Logo" height="" width="250" position="" command="Fit" class="mx-auto !my-0 !py-8 image-light" title="" >}}
+{{< image src="images/logos/sponsors/simnet-white.png" caption="" alt="SIMNET Logo" height="" width="250" position="" command="Fit" class="mx-auto !my-0 !py-8 image-dark" title="" >}}
+{{< /linked-element >}}
+
+{{< /columns >}}
 
 <hr>
 
@@ -99,6 +118,18 @@ Your support allows students to gain the most from their UBC education by creati
 #### Contributor
 {{% /markdown %}}
 
+{{< columns containerClass="flex items-center flex-row text-center flex-wrap justify-center gap-x-2 gap-y-4 items-start" itemClass="flex-initial basis-64" >}}
+
 {{< linked-element link="https://stickermule.com/" >}}
 {{< image src="images/logos/sponsors/sticker-mule.svg" caption="" alt="Sticker Mule Logo" height="" width="200" position="center" command="Fit" class="" title="" >}}
 {{< /linked-element >}}
+<--->
+{{< linked-element link="https://www.rockwestcomposites.com/" >}}
+{{< image src="images/logos/sponsors/rock-west-composites.png" caption="" alt="Rock West Composites Logo" height="" width="200" position="center" command="Fit" class="" title="" >}}
+{{< /linked-element >}}
+<--->
+{{< linked-element link="https://www.actuonix.com/" >}}
+{{< image src="images/logos/sponsors/actuonix.png" caption="" alt="Actuonix Logo" height="" width="200" position="center" command="Fit" class="" title="" >}}
+{{< /linked-element >}}
+
+{{< /columns >}}
