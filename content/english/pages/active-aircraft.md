@@ -9,11 +9,30 @@ draft: false
 ---
 
 {{< columns >}}
+
+{{< image src="images/aircraft/albatross-1.png" caption="" alt="Ground control station map and controls" height="" width="600" position="center" command="Fit" class="" title="" caption="Albatross during a routine flight test." >}}
+
+<--->
+
+{{% markdown class="text-center" %}}
+
+## Albatross
+
+The Albatross was the team's premier aircraft for the the 2023-2024 season. Built off the base of the Dragonfly, the Albatross is a VTOL aircraft that is designed to be super modular, allowing for quick and easy payload changes as well as easy disassembly. The team is currently working on the Albatross to improve its flight performance and capabilities.
+
+The Albatross performed in the 2024 AEAC and 2024 SUAS competitions, where it was able to place 3rd overall at AEAC!
+
+{{< /columns >}}
+{{% /markdown %}}
+
+<hr>
+
+{{< columns >}}
 {{% markdown class="text-center" %}}
 
 ## Dragonfly
 
-Our newest project and the team's second VTOL project to date. The aircraft is designed to be super modular, allowing for quick and easy payload changes as well as easy disassembly. The team is currently working on Dragonfly to improve its flight performance and capabilities.
+The team's second VTOL project to date, the Dragonfly was built to be a modular drone that allowed for easy upgrades and payload swapping. The team used the knowledge gained from this aircraft to build the Albatross after it's development concluded in the summer of 2023.
 
 {{% /markdown %}}
 
@@ -39,5 +58,5 @@ The Hummingbird Project was the team’s response to the need for a more precise
 
 As the years have progressed, Hummingbird has retained its strong performance and so it continues to be used as a test drone for software and camera systems.
 
-{{% /markdown %}}
 {{< /columns >}}
+{{% /markdown %}}
