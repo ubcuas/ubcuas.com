@@ -43,7 +43,7 @@ UBC UAS is a great place to get a taste of industry, develop a diverse range of 
 {{% markdown class="text-center pt-4" %}}
 ### Upcoming Events
 
-Application Window: August 25th - August 20th
+Application Window: August 25th - September 20th
 
 Come visit us at one of the upcoming events to ask questions and learn more about UBC Uncrewed Aircraft Systems!
 {{% /markdown %}}
@@ -66,7 +66,7 @@ Come visit us at one of the upcoming events to ask questions and learn more abou
 - **Date:** September 3rd
 - **Time:**  1:00 - 4:30 PM
 - **Location:** Main Mall
-  - [Zone 2: Side 1](/pdfs/imagine-day-map.pdf)
+  - TBD
     {{% /markdown %}}
 
 <--->
@@ -75,7 +75,7 @@ Come visit us at one of the upcoming events to ask questions and learn more abou
 #### Info Session 2
 
 - **Date:** September 10th
-- **Time:** 6:00 - 8:30 PM
+- **Time:** 6:00 - 8:00 PM
 - **Info:** Presentation and Q&A
 - **Location:** TBD
     {{% /markdown %}}
