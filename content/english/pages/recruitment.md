@@ -92,12 +92,12 @@ Come visit us at one of the upcoming events to ask questions and learn more abou
 ## General Member Roles
 {{% /markdown %}}
 
-UBC UAS has three divisions for general members: **Aircraft**, **Payload**, and **Software**. Each division has sub-teams that focus on specific skillsets within the division.
+UBC UAS has three subteams for general members: **Aircraft**, **Payload**, and **Software**. Each subteam has divisions that focus on specific skillsets within the subteam.
 
 {{% markdown class="text-center pt-4 pb-3" %}}
 ### Aircraft Roles
 
-The aircraft division builds innovative uncrewed aerial vehicles for our competitions. We work closely with our software and payload divisions to ensure proper integration between our systems. We are also responsible for the upkeep of active aircraft and ensuring flight readiness for test flights and competition.
+The aircraft subteam builds innovative uncrewed aerial vehicles for our competitions. We work closely with our software and payload subteams to ensure proper integration between our systems. We are also responsible for the upkeep of active aircraft and ensuring flight readiness for test flights and competition.
 {{% /markdown %}}
 
 #### MECH Aircraft
@@ -111,7 +111,7 @@ Design of electrical systems within our aircraft, working closely with software 
 {{% markdown class="text-center pt-4 pb-3" %}}
 ### Payload Roles
 
-The payload division creates mission-specific payload systems for competition. The sub-team works on projects including autonomous delivery rovers, winch mechanisms, and anything capable of interfacing with the aircraft. These projects involve the integration of multiple engineering disciplines.
+The payload subteam creates mission-specific payload systems for competition. The subteam works on projects including autonomous delivery rovers, winch mechanisms, and anything capable of interfacing with the aircraft. These projects involve the integration of multiple engineering disciplines.
 {{% /markdown %}}
 
 #### MECH Payload
@@ -131,7 +131,7 @@ The software team assigns roles based on preference and need, where members work
 {{% /markdown %}}
 
 #### Software Member
-All projects are up for grabs (everyone gets to choose at the start of the year what they get to work on) and we plan to work with a sprint based system. Some languages and tools we use: JavaScript, Go, C++, Git, Angular, Python, React, Django, Docker, Linux CLI. The Some developers may work on Payload division projects, which requires embedded development skills, including the use of microcontrollers, Git, control systems, telemetry, and more. Knowledge of motor control, control systems, and microcontrollers is an asset. Any knowledge with these tools and languages are a plus. Prior professional software development experience is not required but recommended. Open source contribution is also a plus.
+All projects are up for grabs (everyone gets to choose at the start of the year what they get to work on) and we plan to work with a sprint based system. Some languages and tools we use: JavaScript, Go, C++, Git, Angular, Python, React, Django, Docker, Linux CLI. The Some developers may work on Payload subteam projects, which requires embedded development skills, including the use of microcontrollers, Git, control systems, telemetry, and more. Knowledge of motor control, control systems, and microcontrollers is an asset. Any knowledge with these tools and languages are a plus. Prior professional software development experience is not required but recommended. Open source contribution is also a plus.
 
 {{% markdown class="text-center pt-4 pb-3" %}}
 ### Admin Team Roles
@@ -184,7 +184,7 @@ The application process includes a general submission (with your resume, desired
 {{< /accordion >}}
 
 {{< accordion title="What are the different roles?" >}}
-There are openings for our 3 divisions: Aircraft, Payload, and Software. Within the Aircraft and Payload teams, we have subteams for ELEC and MECH, with tasks within those subteams being related to their discipline:
+There are openings for our 3 subteams: Aircraft, Payload, and Software. Within the Aircraft and Payload teams, we have divisions for ELEC and MECH, with tasks within those divisions being related to their discipline:
 
 ELEC Aircraft - ELEC skillset with preference in aircraft related ELEC tasks
 
