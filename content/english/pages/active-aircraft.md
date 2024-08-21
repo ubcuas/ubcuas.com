@@ -18,9 +18,9 @@ draft: false
 
 ## Albatross
 
-The Albatross was the team's premier aircraft for the the 2023-2024 season. Built off the base of the Dragonfly, the Albatross is a VTOL aircraft that is designed to be super modular, allowing for quick and easy payload changes as well as easy disassembly. The team is currently working on the Albatross to improve its flight performance and capabilities.
+Albatross was the team's premier aircraft for the 2023-2024 season. Built based on Dragonfly, Albatross is a VTOL aircraft that is designed to be super modular, allowing for quick and easy payload changes as well as easy disassembly. The team is currently working on Albatross to improve its flight performance and capabilities.
 
-The Albatross performed in the 2024 AEAC and 2024 SUAS competitions, where it was able to place 3rd overall at AEAC!
+Albatross competed in the 2024 AEAC and SUAS competitions. It was able to place 3rd overall at AEAC!
 
 {{% /markdown %}}
 
@@ -43,7 +43,7 @@ As the years have progressed, Hummingbird has retained its strong performance an
 
 <--->
 
-{{< image src="images/aircraft/hummingbird-1.jpg" caption="" alt="closeup photo of the Hummingbird sitting in the grass" height="" width="600" position="center" command="Fit" class="" title="" caption="" >}}
+{{< image src="images/aircraft/hummingbird-1.jpg" caption="" alt="A close-up photo of Hummingbird sitting in the grass" height="" width="600" position="center" command="Fit" class="" title="" caption="" >}}
 
 {{< /columns >}}
 

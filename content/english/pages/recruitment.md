@@ -92,12 +92,12 @@ Come visit us at one of the upcoming events to ask questions and learn more abou
 ## General Member Roles
 {{% /markdown %}}
 
-UBC UAS has three subteams for general members: **Aircraft**, **Payload**, and **Software**. Each subteam has divisions that focus on specific skillsets within the subteam.
+UBC UAS has three sub-teams for general members: **Aircraft**, **Payload**, and **Software**. Each sub-team has divisions that focus on specific skillsets within the sub-team.
 
 {{% markdown class="text-center pt-4 pb-3" %}}
 ### Aircraft Roles
 
-The aircraft subteam builds innovative uncrewed aerial vehicles for our competitions. We work closely with our software and payload subteams to ensure proper integration between our systems. We are also responsible for the upkeep of active aircraft and ensuring flight readiness for test flights and competition.
+The aircraft sub-team builds innovative uncrewed aerial vehicles for our competitions. It works closely with our software and payload sub-teams to ensure proper integration between our systems. The aircraft sub-team is also responsible for the upkeep of active aircraft and ensuring flight readiness for test flights and competition.
 {{% /markdown %}}
 
 #### MECH Aircraft
@@ -111,7 +111,7 @@ Design of electrical systems within our aircraft, working closely with software 
 {{% markdown class="text-center pt-4 pb-3" %}}
 ### Payload Roles
 
-The payload subteam creates mission-specific payload systems for competition. The subteam works on projects including autonomous delivery rovers, winch mechanisms, and anything capable of interfacing with the aircraft. These projects involve the integration of multiple engineering disciplines.
+The payload sub-team creates mission-specific payload systems for competition. The sub-team works on projects including autonomous delivery rovers, winch mechanisms, and anything capable of interfacing with the aircraft. These projects involve the integration of multiple engineering disciplines.
 {{% /markdown %}}
 
 #### MECH Payload
@@ -125,13 +125,13 @@ Design segments of payload projects with electrical aspects. You will learn to u
 {{% markdown class="text-center pt-4 pb-3" %}}
 ### Software Roles
 
-The software team assigns roles based on preference and need, where members works on many different projects/programs and uses a variety of tools and languages. We encourage members to work on projects that they are interested in and apply their experience while learning new tools.
+The software team assigns roles based on preference and need, where members works on many different projects/programs and uses a variety of tools and languages. Members are encouraged to work on projects that they are interested in and apply their experience while learning new tools.
 
 
 {{% /markdown %}}
 
 #### Software Member
-All projects are up for grabs (everyone gets to choose at the start of the year what they get to work on) and we plan to work with a sprint based system. Some languages and tools we use: JavaScript, Go, C++, Git, Angular, Python, React, Django, Docker, Linux CLI. The Some developers may work on Payload subteam projects, which requires embedded development skills, including the use of microcontrollers, Git, control systems, telemetry, and more. Knowledge of motor control, control systems, and microcontrollers is an asset. Any knowledge with these tools and languages are a plus. Prior professional software development experience is not required but recommended. Open source contribution is also a plus.
+All projects are up for grabs (everyone gets to choose at the start of the year what they get to work on) and the team works on a sprint-based system. Some languages and tools the team uses: JavaScript, Go, C++, Git, Angular, Python, React, Django, Docker, and Linux. Some developers may work on Payload sub-team projects, which require embedded development skills, including the use of microcontrollers, Git, control systems, telemetry, and more. Knowledge of motor control, control systems, and microcontrollers is an asset. Any knowledge with these tools and languages is a plus. Prior professional software development experience is not required but strongly recommended. Open-source contributions are also a plus.
 
 {{% markdown class="text-center pt-4 pb-3" %}}
 ### Admin Team Roles
@@ -143,7 +143,7 @@ The events coordinator is responsible for organizing and planning team events. T
 
 #### Finance Manager
 
-The finance manager is responsible for managing the team’s finances. This includes managing the team’s budget, applying for grants, managing sponsorships, and delegating finance work to executive members. This role is a great opportunity to develop your financial knowledge, leadership, and organizational skills.
+The finance manager is responsible for managing the team’s finances. This includes managing the team’s budget, applying for grants, processing purchases, and delegating finance work to executive members. This role is a great opportunity to develop your financial knowledge, leadership, and organizational skills.
 
 #### Social Media Manager
 
@@ -184,7 +184,7 @@ The application process includes a general submission (with your resume, desired
 {{< /accordion >}}
 
 {{< accordion title="What are the different roles?" >}}
-There are openings for our 3 subteams: Aircraft, Payload, and Software. Within the Aircraft and Payload teams, we have divisions for ELEC and MECH, with tasks within those divisions being related to their discipline:
+There are openings for our 3 sub-teams: Aircraft, Payload, and Software. Within the Aircraft and Payload teams, we have divisions for ELEC and MECH, with tasks within those divisions being related to their discipline:
 
 ELEC Aircraft - ELEC skillset with preference in aircraft related ELEC tasks
 

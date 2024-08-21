@@ -12,7 +12,7 @@ draft: false
 {{< columns >}}
 
 
-{{< image src="images/aircraft/dragonfly.jpg" caption="" alt="Our newest vertical take-off and landing (VTOL) drone" height="" width="600" position="cen ter" command="Fit" class="" title="" caption="Dragonfly in its early stages without wings, a tail, and a forward motor." >}}
+{{< image src="images/aircraft/dragonfly.jpg" caption="" alt="Our newest vertical take-off and landing (VTOL) drone" height="" width="600" position="center" command="Fit" class="" title="" caption="Dragonfly in its early stages without wings, a tail, and a forward motor." >}}
 
 
 <--->
@@ -22,7 +22,7 @@ draft: false
 ## Dragonfly
 
 
-The team's second VTOL project to date, the Dragonfly was built to be a modular drone that allowed for easy upgrades and payload swapping. The team used the knowledge gained from this aircraft to build the Albatross after it's development concluded in the summer of 2023.
+The team's second VTOL project to date, Dragonfly was built to be a modular drone that allowed for easy upgrades and payload swapping. The team used the knowledge gained from this aircraft to build Albatross after its development concluded in the summer of 2023.
 
 {{% /markdown %}}
 
