@@ -19,7 +19,7 @@ draft: false
 
 ##### **Aerial Evolution Association of Canada (AEAC)**
 
-For the 2024 AEAC Student UAS Competition, the team undertook two challenging tasks. In Task 1, the team faced unexpected difficulties due to strong winds and an imbalanced aircraft, which prevented them from completing the mission as planned. However, they made critical modifications to their aircraft for Task 2, including removing the tail and wings and optimizing the center of gravity, which resulted in a successful and stable flight. Despite some technical challenges, such as GPS inaccuracies, the team managed to perform a precise manual landing. Overall, the team performed well, achehiving 3rd place while providing valuable learning experiences, and the team is eager to apply these insights to future projects.
+For the AEAC 2024 competition, the scenario was transporting four passengers within the Big City Urban Area (BCUA) along with cargo, while demonstrating superior performance and the ability to perform 'instrument' approaches to challenging landing sites. The Phase 2 Flight Assessment consisted of two tasks. Task 1 involved a Vehicle Performance Assessment, where the UAS must safely transport the passengers and cargo over a long-distance route, showcasing optimum vehicle performance. Task 2, the Urban All-Weather Landing Trial, required the UAS to perform an instrument approach to a designated landing pad while maintaining contact with Air Traffic Control (ATC).
 
 {{% /markdown %}}
 
@@ -35,7 +35,7 @@ For the 2024 AEAC Student UAS Competition, the team undertook two challenging ta
 
 ##### **Student Unmanned Aircraft Systems Competition (SUAS)**
 
-For the SUAS 2024 competition, the main competition involved following a loop and then completing a payload drop. Despite  preparation, the intense heat at the competition site presented unexpected challenges, affecting the aircraft's performance and the accuracy of our payload drop. The aircraft did take off but was unable to complete the route as required. However, the experience was still unforgettable and the team looks forward to refining our techniques and returning stronger next year.
+For the SUAS 2024 competition, the mission required the UAS to successfully take off and reach an altitude of 75ft AGL within the first 10 minutes of the mission clock, or face termination. The team was required to follow a waypoint lap immediately after takeoff before attempting other tasks. These other tasks included finding and identifying payload drop off locations, and successfully dropping correctly labeled payloads to their matching targets.
 
 {{% /markdown %}}
 
