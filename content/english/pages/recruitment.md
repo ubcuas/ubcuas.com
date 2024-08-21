@@ -13,7 +13,7 @@ draft: false
 {{% /markdown %}}
 
 {{< columns containerClass="pt-4 pb-10 flex flex-row text-center flex-wrap justify-center gap-y-4 items-start" itemClass="flex-initial basis-72" >}}
-{{< button label="Technical Member Application" link="https://docs.google.com/forms/d/e/1FAIpQLScCgv_6i3ixd47giy1P-0ARqV5TZ-t4iirgZySHXwC4bGntuQ/viewform?usp=sf_link" >}}
+{{< button label="Technical Member Application" link="https://docs.google.com/forms/d/e/1FAIpQLSdN-2wRe6KowuAxEetneANvpchru0hFpCyYHnlBmTjXIp8vIQ" >}}
 <--->
 {{< button label="Admin Team Application" link="https://docs.google.com/forms/d/e/1FAIpQLSf0-Tbmag3z6mE2p7Jgt1Vho1tknbMvY666cRwO8cArjXEiqg/viewform?usp=sf_link" >}} 
 {{< /columns >}}
