@@ -19,7 +19,7 @@ first:
 # Features
 features:
   - title: "What do we do?"
-    image: "/images/people/group-2.jpg"
+    image: "/images/people/team_photo.jpg"
     content: ""
     bulletpoints:
       - Work with cutting edge technology in the UAV field with the goal of educating our members and pushing the boundaries of the industry

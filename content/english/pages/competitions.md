@@ -19,7 +19,7 @@ draft: false
 
 ##### **Aerial Evolution Association of Canada (AEAC)**
 
-For the 2022 competition, AEAC created a simulated embassy protection mission. Our system was first tasked with reading information from a QR code and autonomously taking off to the coordinates within that data. We then had to track an intruder and answer questions about them found in the QR code data. Our next task was remotely identifying and retrieving a suspicious package. We added ground driving capabilities to our drone with an extendable claw and camera feed to line up and grab the package. The competition took place between May 6th and May 8th.
+For the AEAC 2024 competition, the scenario was transporting four passengers within the Big City Urban Area (BCUA) along with cargo, while demonstrating superior performance and the ability to perform 'instrument' approaches to challenging landing sites. The Phase 2 Flight Assessment consisted of two tasks. Task 1 involved a Vehicle Performance Assessment, where the UAS must safely transport the passengers and cargo over a long-distance route, showcasing optimum vehicle performance. Task 2, the Urban All-Weather Landing Trial, required the UAS to perform an instrument approach to a designated landing pad while maintaining contact with Air Traffic Control (ATC).
 
 {{% /markdown %}}
 
@@ -35,7 +35,7 @@ For the 2022 competition, AEAC created a simulated embassy protection mission. O
 
 ##### **Student Unmanned Aircraft Systems Competition (SUAS)**
 
-UBC UAS built a large, fast, multi-rotor capable of performing autonomous flights while carrying multiple payloads for the SUAS competition. The mission was to autonomously fly to waypoints while avoiding obstacles like buildings. We were also tasked with taking aerial photos to stich together to create a map, creating an active aircraft avoidance system, and building a rover to be deployed that autonomously navigates and transports a water bottle to the mission location. Our in-house software suite was used to create aircraft flight paths, manage imaging for mapping, sending telemetry to the control server and perform object detection. The competition ran from July 15th to 18th.
+For the SUAS 2024 competition, the mission required the UAS to successfully take off and reach an altitude of 75ft AGL within the first 10 minutes of the mission clock, or face termination. The team was required to follow a waypoint lap immediately after takeoff before attempting other tasks. These other tasks included finding and identifying payload drop off locations, and successfully dropping correctly labeled payloads to their matching targets.
 
 {{% /markdown %}}
 

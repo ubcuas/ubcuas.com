@@ -9,27 +9,27 @@ draft: false
 ---
 
 {{< columns >}}
-{{% markdown class="text-center" %}}
 
-## Dragonfly
-
-Our newest project and the team's second VTOL project to date. The aircraft is designed to be super modular, allowing for quick and easy payload changes as well as easy disassembly. The team is currently working on Dragonfly to improve its flight performance and capabilities.
-
-{{% /markdown %}}
+{{< image src="images/aircraft/albatross-1.jpeg" caption="" alt="Albatross on the grass" height="" width="700" position="center" command="Fit" class="" title="" caption="Albatross during a routine flight test." >}}
 
 <--->
 
-{{< image src="images/aircraft/dragonfly.jpg" caption="" alt="Our newest vertical take-off and landing (VTOL) drone" height="" width="600" position="center" command="Fit" class="" title="" caption="Dragonfly in its early stages without wings, a tail, and a forward motor." >}}
+{{% markdown class="text-center" %}}
+
+## Albatross
+
+Albatross was the team's premier aircraft for the 2023-2024 season. Built based on Dragonfly, Albatross is a VTOL aircraft that is designed to be super modular, allowing for quick and easy payload changes as well as easy disassembly. The team is currently working on Albatross to improve its flight performance and capabilities.
+
+Albatross competed in the 2024 AEAC and SUAS competitions. It was able to place 3rd overall at AEAC!
+
+{{% /markdown %}}
 
 {{< /columns >}}
+
 
 <hr>
 
 {{< columns >}}
-
-{{< image src="images/aircraft/hummingbird-1.jpg" caption="" alt="Ground control station map and controls" height="" width="600" position="center" command="Fit" class="" title="" >}}
-
-<--->
 
 {{% markdown class="text-center" %}}
 
@@ -40,4 +40,11 @@ The Hummingbird Project was the team’s response to the need for a more precise
 As the years have progressed, Hummingbird has retained its strong performance and so it continues to be used as a test drone for software and camera systems.
 
 {{% /markdown %}}
+
+<--->
+
+{{< image src="images/aircraft/hummingbird-1.jpg" caption="" alt="A close-up photo of Hummingbird sitting in the grass" height="" width="600" position="center" command="Fit" class="" title="" caption="" >}}
+
 {{< /columns >}}
+
+
