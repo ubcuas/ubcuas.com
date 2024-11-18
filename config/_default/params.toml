@@ -1,7 +1,7 @@
-#################### default parameters ################################
-# favicon
+####################### default parameters #######################
+# favicon: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
 favicon = "images/logos/uas/favicon.png"
-# logos
+# logo: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
 logo = "images/logos/uas/logo.png"
 logo_darkmode = "images/logos/uas/logo-darkmode.png"
 # use `px` or `x` with logo_width, example: "100px".
@@ -29,7 +29,7 @@ custom_script = ""
 # copyright
 copyright = "© 2024 UBC Uncrewed Aircraft Systems"
 
-# Preloader
+# Preloader: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
 [preloader]
 enable = true
 preloader = "png" # use jpg, png, svg or gif format.
@@ -40,7 +40,7 @@ enable = true
 label = "Sponsor Us"
 link = "sponsorships"
 
-# search
+# search: https://github.com/gethugothemes/hugo-modules/tree/master/search
 [search]
 enable = true
 primary_color = "#121212"
@@ -50,14 +50,21 @@ show_description = true
 show_tags = true
 show_categories = true
 
-# seo meta data for OpenGraph / Twitter Card
+# announcement: https://github.com/gethugothemes/hugo-modules/tree/master/components/announcement
+[announcement]
+enable = false
+expire_days = 7
+content = "Recruitment is now open!"
+
+# seo meta data for OpenGraph / Twitter Card: : https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["UBC UAS", "UBC Uncrewed Aircraft Systems", "Autonomous Drones", "UBC Design Team", "UBC Engineering"]
 description = "UBC UAS is a student design team that designs, builds, and flies autonomous drones with the aim to push innovation and inspire the next generation of professionals."
 author = "UBC Uncrewed Aircraft Systems"
+twitter = "ubcuas"
 image = "images/logos/uas/og-image.png"
 
-# site verifications
+# site verifications: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/site-verifications
 [site_verification]
 google = ""   # Your verification code
 bing = ""     # Your verification code
@@ -65,12 +72,16 @@ baidu = ""    # Your verification code
 facebook = "" # Your verification code
 mastodon = "" # Your verification code
 
-# cookies
+# cookies: https://github.com/gethugothemes/hugo-modules/tree/master/components/cookie-consent
 [cookies]
 enable = true
 expire_days = 60
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
+
+# diagrams
+[mermaid]
+js_url = 'https://cdn.jsdelivr.net/npm/mermaid@latest/dist/mermaid.esm.min.mjs'
 
 ######################## sidebar widgets #########################
 [widgets]
