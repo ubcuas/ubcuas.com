@@ -149,7 +149,8 @@
           src="{{ .Scratch.Get `image` }}"
           alt="{{ $alt }}"
           onerror="this.onerror='null';this.src='{{ .Scratch.Get `fallback` }}'" />
-        <figcaption id="caption-{{ $caption | base64Encode | replaceRE `[^a-zA-Z\d\s]` "" }}">
+        <figcaption
+          id="caption-{{ $caption | base64Encode | replaceRE `[^a-zA-Z\d\s]` "" }}">
           {{ $caption | markdownify }}
         </figcaption>
       </figure>
