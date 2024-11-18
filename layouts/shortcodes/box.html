@@ -1,5 +1,6 @@
 {{- $class := .Get "class" | default "" -}}
 
+
 <div class="{{ $class }}">
-    {{ .Inner | safeHTML }}
+  {{ .Inner | safeHTML }}
 </div>

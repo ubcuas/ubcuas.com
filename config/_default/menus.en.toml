@@ -14,46 +14,46 @@ hasChildren = true
 [[main]]
 parent = "Projects"
 name = "Active Aircraft"
-url = "active-aircraft/"
+url = "/active-aircraft"
 weight = 1
 
 [[main]]
 parent = "Projects"
 name = "Legacy Aircraft"
-url = "legacy-aircraft/"
+url = "/legacy-aircraft"
 weight = 2
 
 [[main]]
 parent = "Projects"
 name = "Ground Control"
-url = "ground-control/"
+url = "/ground-control"
 weight = 3
 
 [[main]]
 name = "Competitions"
-url = "competitions/"
+url = "/competitions"
 weight = 3
 
 [[main]]
 name = "Recruitment"
-url = "recruitment/"
+url = "/recruitment"
 weight = 4
 
 [[main]]
 name = "FAQ"
-url = "faq/"
+url = "/faq"
 weight = 6
 
 [[main]]
 name = "Contact"
-url = "contact/"
+url = "/contact"
 weight = 7
 
 
 # footer menu
 [[footer]]
 name = "About"
-url = "faq/"
+url = "/faq"
 weight = 1
 
 # TODO: add team page
@@ -64,15 +64,15 @@ weight = 1
 
  [[footer]]
  name = "Sponsors"
- url = "sponsorships#current-sponsors"
+ url = "/sponsorships#current-sponsors"
  weight = 3
 
 # [[footer]]
 # name = "Blog"
-# url = "blog/"
+# url = "/blog"
 # weight = 4
 
 [[footer]]
 name = "Contact"
-url = "contact/"
+url = "/contact"
 weight = 5

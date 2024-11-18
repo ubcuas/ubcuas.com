@@ -3,11 +3,11 @@
 
 
 <a
-    {{ with $link }}href="{{ . }}"{{ end }}
-    {{ with $target }}
-        target="{{ . }}"
-    {{ else }}
-        target="_blank"
-    {{ end }}>
-    {{ .Inner }}
+  {{ with $link }}href="{{ . }}"{{ end }}
+  {{ with $target }}
+    target="{{ . }}"
+  {{ else }}
+    target="_blank"
+  {{ end }}>
+  {{ .Inner }}
 </a>
