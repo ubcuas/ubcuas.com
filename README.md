@@ -41,7 +41,7 @@ git submodule update --remote
 ```
 
 #### Update Modules
-    
+
 ```bash
 npm run update-modules
 ```
@@ -71,6 +71,9 @@ config/                                # Hugo configuration files
 
 content/                               # Content files
     english/
+        authors/                       # Author profiles
+            _index.md                  # Author home page
+            <author-url>.md            # Author profile
         blog/                          # Blog section
             _index.md                  # Blog home page
             <blog-post-url>.md         # Blog post
@@ -92,7 +95,6 @@ i18n/                                  # Translation files
     en.yaml                            # English translation file
 
 layouts/                               # Layout files (new items or overrides the theme layouts)
-    _default/                          # Default layout files
     partials/                          # Partial layout files (reusable components)
     shortcodes/                        # Shortcodes (reusable components, notably in markdown)
 
@@ -108,7 +110,6 @@ go.mod                                 # Hugo modules versioning
 hugo.toml                              # Hugo configuration
 netlify.toml                           # Netlify configuration
 package.json                           # Node.js configuration
-postcss.config.js                      # PostCSS configuration
 tailwind.config.js                     # Tailwind CSS configuration
 ```
 
