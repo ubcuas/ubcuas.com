@@ -13,7 +13,7 @@ draft: false
 <br>
 
 {{% markdown class="text-center" %}}
-##### If you are interested in joining the team, or would like more information about us, please send us an email!
+###### If you are interested in joining the team, or would like more information about us, please send us an email!
 {{% /markdown %}}
 
 <br>
