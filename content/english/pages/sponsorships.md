@@ -89,6 +89,10 @@ Your support allows students to gain the most from their UBC education by creati
 {{< image src="images/logos/sponsors/cubepilot-black.png" caption="" alt="CubePilot Logo" height="" width="300" position="" command="Fit" class="mx-auto !my-0 image-light" title="" >}}
 {{< image src="images/logos/sponsors/cubepilot-white.png" caption="" alt="CubePilot Logo" height="" width="300" position="" command="Fit" class="mx-auto !my-0 image-dark" title="" >}}
 {{< /linked-element >}}
+<--->
+{{< linked-element link="https://www.zaber.com//" >}}
+{{< image src="images/logos/sponsors/zaber.jpg" caption="" alt="Zaber" height="" width="300" position="" command="Fit" class="mx-auto" title="" >}}
+{{< /linked-element >}}
 
 {{< /columns >}}
 
