@@ -12,7 +12,7 @@ Sponsors are a crucial to the success of the team, and we are incredibly gratefu
 
 {{< columns containerClass="flex flex-row text-center flex-wrap justify-center gap-y-4 items-start" itemClass="flex-initial basis-52" >}}
 
-{{< button label="Sponsorship Package" link="https://drive.google.com/file/d/1UsKSSy-CAt28Sa2FTt9CG160bJruIO7C/view?usp=sharing" style="solid" class="" >}}
+{{< button label="Sponsorship Package" link="https://drive.google.com/file/d/1ntN6i1_aIlFHt2MIOQdtwHhf97MZhBLa/view?usp=sharing" style="solid" class="" >}}
 <--->
 {{< button label="Donate Now!" link="https://donate.give.ubc.ca/page/80953/donate/1?transaction.dirgift=UBC+Uncrewed+Aircraft+Systems+%28UAS%29%20G2333" style="solid" class="" >}}
 
