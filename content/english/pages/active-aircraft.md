@@ -10,7 +10,7 @@ draft: false
 
 {{< columns >}}
 
-{{< image src="images/aircraft/hydrone-1.jpeg" caption="" alt="Hydrone mid-flight" height="" width="700" position="center" command="Fit" class="" title="" caption="" >}}
+{{< image src="images/aircraft/hydrone-1.jpg" caption="" alt="Hydrone mid-flight" height="" width="700" position="center" command="Fit" class="" title="" caption="" >}}
 
 <--->
 
