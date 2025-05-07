@@ -23,11 +23,11 @@ Albatross was the team's premier aircraft for the 2023-2024 season. Built based 
 Albatross competed in the 2024 AEAC and SUAS competitions. It was able to place 3rd overall at AEAC!
 
 {{% /markdown %}}
-
 {{< /columns >}}
 
-{{< columns >}}
+<hr>
 
+{{< columns >}}
 {{< image src="images/aircraft/dragonfly.jpg" caption="" alt="Our newest vertical take-off and landing (VTOL) drone" height="" width="600" position="center" command="Fit" class="" title="" caption="Dragonfly in its early stages without wings, a tail, and a forward motor." >}}
 
 <--->
@@ -39,7 +39,6 @@ Albatross competed in the 2024 AEAC and SUAS competitions. It was able to place 
 The team's second VTOL project to date, Dragonfly was built to be a modular drone that allowed for easy upgrades and payload swapping. The team used the knowledge gained from this aircraft to build Albatross after its development concluded in the summer of 2023.
 
 {{% /markdown %}}
-
 {{< /columns >}}
 
 <hr>
@@ -56,13 +55,11 @@ Beetle was UAS's first attempt at a vertical take-off and landing (VTOL) drone. 
 <--->
 
 {{< image src="images/aircraft/beetle-2.jpg" caption="" alt="Raven drone" height="" width="600" position="center" command="Fit" class="" title="" >}}
-
 {{< /columns >}}
 
 <hr>
 
 {{< columns >}}
-
 {{< image src="images/aircraft/ataksak.png" caption="" alt="Ataksak drone" height="" width="600" position="center" command="Fit" class="" title="" >}}
 
 <--->
