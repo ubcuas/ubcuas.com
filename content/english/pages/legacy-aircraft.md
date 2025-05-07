@@ -8,19 +8,33 @@ description: "Past aircraft build and flown by the team."
 draft: false
 ---
 
+{{< columns >}}
+
+{{< image src="images/aircraft/albatross-1.jpeg" caption="" alt="Albatross on the grass" height="" width="700" position="center" command="Fit" class="" title="" caption="Albatross during a routine flight test." >}}
+
+<--->
+
+{{% markdown class="text-center" %}}
+
+## Albatross
+
+Albatross was the team's premier aircraft for the 2023-2024 season. Built based on Dragonfly, Albatross is a VTOL aircraft that is designed to be super modular, allowing for quick and easy payload changes as well as easy disassembly. The team is currently working on Albatross to improve its flight performance and capabilities.
+
+Albatross competed in the 2024 AEAC and SUAS competitions. It was able to place 3rd overall at AEAC!
+
+{{% /markdown %}}
+
+{{< /columns >}}
 
 {{< columns >}}
 
-
 {{< image src="images/aircraft/dragonfly.jpg" caption="" alt="Our newest vertical take-off and landing (VTOL) drone" height="" width="600" position="center" command="Fit" class="" title="" caption="Dragonfly in its early stages without wings, a tail, and a forward motor." >}}
-
 
 <--->
 
 {{% markdown class="text-center" %}}
 
 ## Dragonfly
-
 
 The team's second VTOL project to date, Dragonfly was built to be a modular drone that allowed for easy upgrades and payload swapping. The team used the knowledge gained from this aircraft to build Albatross after its development concluded in the summer of 2023.
 
