@@ -9,11 +9,6 @@ draft: false
 ---
 
 {{< columns >}}
-
-{{< image src="images/aircraft/albatross-1.jpeg" caption="" alt="Albatross on the grass" height="" width="700" position="center" command="Fit" class="" title="" caption="Albatross during a routine flight test." >}}
-
-<--->
-
 {{% markdown class="text-center" %}}
 
 ## Albatross
@@ -23,6 +18,11 @@ Albatross was the team's premier aircraft for the 2023-2024 season. Built based 
 Albatross competed in the 2024 AEAC and SUAS competitions. It was able to place 3rd overall at AEAC!
 
 {{% /markdown %}}
+
+<--->
+
+{{< image src="images/aircraft/albatross-1.jpeg" caption="" alt="Albatross on the grass" height="" width="700" position="center" command="Fit" class="" title="" caption="Albatross during a routine flight test." >}}
+
 {{< /columns >}}
 
 <hr>
@@ -95,13 +95,11 @@ As a direct response to the 2019 AUVSI SUAS challenge, Condor was built to compl
 <--->
 
 {{< image src="images/aircraft/condor-1.jpg" caption="" alt="Condor drone" height="" width="600" position="center" command="Fit" class="" title="" >}}
-
 {{< /columns >}}
 
 <hr>
 
 {{< columns >}}
-
 {{< image src="images/aircraft/desert-hawk.png" caption="" alt="Desert Hawk drone" height="" width="600" position="center" command="Fit" class="" title="" >}}
 
 <--->
@@ -131,13 +129,11 @@ Project Raven was born out of a need for a stable, high-endurance multi-rotor pl
 <--->
 
 {{< image src="images/aircraft/raven.jpg" caption="" alt="Raven drone" height="" width="600" position="center" command="Fit" class="" title="" >}}
-
 {{< /columns >}}
 
 <hr>
 
 {{< columns >}}
-
 {{< image src="images/aircraft/thunderbird.jpg" caption="" alt="Thunderbird drone" height="" width="600" position="center" command="Fit" class="" title="" >}}
 
 <--->
@@ -169,13 +165,11 @@ With this aircraft we were able to hand launch from a moment’s notice and be i
 <--->
 
 {{< image src="images/aircraft/sparrow.jpg" caption="" alt="Sparrow drone" height="" width="600" position="center" command="Fit" class="" title="" >}}
-
 {{< /columns >}}
 
 <hr>
 
 {{< columns >}}
-
 {{< image src="images/aircraft/flame-wheel.jpg" caption="" alt="Flame Wheel drone" height="" width="600" position="center" command="Fit" class="" title="" >}}
 
 <--->
