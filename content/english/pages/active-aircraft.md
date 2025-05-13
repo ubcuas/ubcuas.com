@@ -10,22 +10,19 @@ draft: false
 
 {{< columns >}}
 
-{{< image src="images/aircraft/albatross-1.jpeg" caption="" alt="Albatross on the grass" height="" width="700" position="center" command="Fit" class="" title="" caption="Albatross during a routine flight test." >}}
+{{< image src="images/aircraft/hydrone-1.jpg" caption="" alt="Hydrone mid-flight" height="" width="700" position="center" command="Fit" class="" title="" caption="" >}}
 
 <--->
 
 {{% markdown class="text-center" %}}
 
-## Albatross
+## Hydrone
 
-Albatross was the team's premier aircraft for the 2023-2024 season. Built based on Dragonfly, Albatross is a VTOL aircraft that is designed to be super modular, allowing for quick and easy payload changes as well as easy disassembly. The team is currently working on Albatross to improve its flight performance and capabilities.
-
-Albatross competed in the 2024 AEAC and SUAS competitions. It was able to place 3rd overall at AEAC!
+Hydrone is the team's flagship aircraft for the 2025 season. With modularity in mind, Hydrone is designed to be versatile -- allowing for quick and easy payload changes as well as easy disassembly.
 
 {{% /markdown %}}
 
 {{< /columns >}}
-
 
 <hr>
 
@@ -46,5 +43,3 @@ As the years have progressed, Hummingbird has retained its strong performance an
 {{< image src="images/aircraft/hummingbird-1.jpg" caption="" alt="A close-up photo of Hummingbird sitting in the grass" height="" width="600" position="center" command="Fit" class="" title="" caption="" >}}
 
 {{< /columns >}}
-
-

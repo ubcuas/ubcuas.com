@@ -8,12 +8,27 @@ description: "Past aircraft build and flown by the team."
 draft: false
 ---
 
+{{< columns >}}
+{{% markdown class="text-center" %}}
+
+## Albatross
+
+Albatross was the team's premier aircraft for the 2023-2024 season. Built based on Dragonfly, Albatross is a VTOL aircraft that is designed to be super modular, allowing for quick and easy payload changes as well as easy disassembly. The team is currently working on Albatross to improve its flight performance and capabilities.
+
+Albatross competed in the 2024 AEAC and SUAS competitions. It was able to place 3rd overall at AEAC!
+
+{{% /markdown %}}
+
+<--->
+
+{{< image src="images/aircraft/albatross-1.jpeg" caption="" alt="Albatross on the grass" height="" width="700" position="center" command="Fit" class="" title="" caption="Albatross during a routine flight test." >}}
+
+{{< /columns >}}
+
+<hr>
 
 {{< columns >}}
-
-
 {{< image src="images/aircraft/dragonfly.jpg" caption="" alt="Our newest vertical take-off and landing (VTOL) drone" height="" width="600" position="center" command="Fit" class="" title="" caption="Dragonfly in its early stages without wings, a tail, and a forward motor." >}}
-
 
 <--->
 
@@ -21,11 +36,9 @@ draft: false
 
 ## Dragonfly
 
-
 The team's second VTOL project to date, Dragonfly was built to be a modular drone that allowed for easy upgrades and payload swapping. The team used the knowledge gained from this aircraft to build Albatross after its development concluded in the summer of 2023.
 
 {{% /markdown %}}
-
 {{< /columns >}}
 
 <hr>
@@ -42,13 +55,11 @@ Beetle was UAS's first attempt at a vertical take-off and landing (VTOL) drone. 
 <--->
 
 {{< image src="images/aircraft/beetle-2.jpg" caption="" alt="Raven drone" height="" width="600" position="center" command="Fit" class="" title="" >}}
-
 {{< /columns >}}
 
 <hr>
 
 {{< columns >}}
-
 {{< image src="images/aircraft/ataksak.png" caption="" alt="Ataksak drone" height="" width="600" position="center" command="Fit" class="" title="" >}}
 
 <--->
@@ -84,13 +95,11 @@ As a direct response to the 2019 AUVSI SUAS challenge, Condor was built to compl
 <--->
 
 {{< image src="images/aircraft/condor-1.jpg" caption="" alt="Condor drone" height="" width="600" position="center" command="Fit" class="" title="" >}}
-
 {{< /columns >}}
 
 <hr>
 
 {{< columns >}}
-
 {{< image src="images/aircraft/desert-hawk.png" caption="" alt="Desert Hawk drone" height="" width="600" position="center" command="Fit" class="" title="" >}}
 
 <--->
@@ -120,13 +129,11 @@ Project Raven was born out of a need for a stable, high-endurance multi-rotor pl
 <--->
 
 {{< image src="images/aircraft/raven.jpg" caption="" alt="Raven drone" height="" width="600" position="center" command="Fit" class="" title="" >}}
-
 {{< /columns >}}
 
 <hr>
 
 {{< columns >}}
-
 {{< image src="images/aircraft/thunderbird.jpg" caption="" alt="Thunderbird drone" height="" width="600" position="center" command="Fit" class="" title="" >}}
 
 <--->
@@ -158,13 +165,11 @@ With this aircraft we were able to hand launch from a moment’s notice and be i
 <--->
 
 {{< image src="images/aircraft/sparrow.jpg" caption="" alt="Sparrow drone" height="" width="600" position="center" command="Fit" class="" title="" >}}
-
 {{< /columns >}}
 
 <hr>
 
 {{< columns >}}
-
 {{< image src="images/aircraft/flame-wheel.jpg" caption="" alt="Flame Wheel drone" height="" width="600" position="center" command="Fit" class="" title="" >}}
 
 <--->
