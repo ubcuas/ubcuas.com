@@ -26,26 +26,26 @@ HUGO_VERSION = "0.134.3"
 # Lighthouse Report Plugin
 # https://github.com/netlify/netlify-plugin-lighthouse#readme
 [[plugins]]
-	package = "@netlify/plugin-lighthouse"
+package = "@netlify/plugin-lighthouse"
 
-	# Set minimum thresholds for each report area
-	[plugins.inputs.thresholds]
-    performance = 0.90
-    accessibility = 0.95
-    best-practices = 0.75
-    seo = 0.85
-    # pwa = 0
+# Set minimum thresholds for each report area
+[plugins.inputs.thresholds]
+performance = 0.90
+accessibility = 0.95
+best-practices = 0.75
+seo = 0.85
+# pwa = 0
 
-  [[plugins.inputs.audits]]
-    path = ""
+[[plugins.inputs.audits]]
+path = ""
 
-  # Audit a path other than /
-  # This audit will use the top level thresholds
-  [[plugins.inputs.audits]]
-    path = "competitions/"
+# Audit a path other than /
+# This audit will use the top level thresholds
+[[plugins.inputs.audits]]
+path = "competitions/"
 
-  [[plugins.inputs.audits]]
-    path = "active-aircraft/"
+[[plugins.inputs.audits]]
+path = "active-aircraft/"
 
 
 # Sitemap Generation Plugin
@@ -53,70 +53,51 @@ HUGO_VERSION = "0.134.3"
 [[plugins]]
 package = "@netlify/plugin-sitemap"
 
-  [plugins.inputs]
-    # Append missing trailing slash to pretty URL
-    trailingSlash = true
-    changeFreq = "monthly"
+[plugins.inputs]
+# Append missing trailing slash to pretty URL
+trailingSlash = true
+changeFreq = "monthly"
 
 
 # Sitemap Submission Plugin
 # https://github.com/cdeleeuwe/netlify-plugin-submit-sitemap#readme
 [[plugins]]
-  package = "netlify-plugin-submit-sitemap"
+package = "netlify-plugin-submit-sitemap"
 
-	[plugins.inputs]
-    # Path to the sitemap URL (optional, default = /sitemap.xml)
-    sitemapPath = "/sitemap.xml"
+[plugins.inputs]
+# Path to the sitemap URL (optional, default = /sitemap.xml)
+sitemapPath = "/sitemap.xml"
 
-    # Time in seconds to not submit the sitemap after successful submission
-    ignorePeriod = 0
+# Time in seconds to not submit the sitemap after successful submission
+ignorePeriod = 0
 
-    # Enabled providers to submit sitemap to (optional, default = 'google', 'yandex'). Possible providers are currently only 'google', 'yandex'.
-    providers = [
-      "google",
-      "yandex"
-    ]
-
-
-# Missing Page Plugin
-# https://github.com/swyxio/netlify-plugin-no-more-404#readme
-[[plugins]]
-package = "netlify-plugin-no-more-404"
-
-  [plugins.inputs]
-    # Either "warn" or "error"
-    on404 = "error"
-
-    # Change this key to a new one any time you need to restart from scratch
-    cacheKey = "MyCacheKey"
-
-    # (For development) turn true for extra diagnostic logging
-    debugMode = false
+# Enabled providers to submit sitemap to (optional, default = 'google', 'yandex'). Possible providers are currently only 'google', 'yandex'.
+providers = ["google", "yandex"]
 
 
 # Accessibility Check Plugin
 # https://github.com/netlify-labs/netlify-plugin-a11y#readme
 [[plugins]]
-  package = "@netlify/plugin-a11y"
+package = "@netlify/plugin-a11y"
 
-  [plugins.inputs]
-    # Indicates which pages of your site to check
-    checkPaths = ['/']
+[plugins.inputs]
+# Indicates which pages of your site to check
+checkPaths = ['/']
 
-    # Whether to fail the build if a11y issues are found
-    failWithIssues = true
+# Whether to fail the build if a11y issues are found
+failWithIssues = true
 
-    # Directories that should not be checked for a11y issues
-    ignoreDirectories = ["1"]
+# Directories that should not be checked for a11y issues
+ignoreDirectories = ["1"]
 
-    # Indicates elements that should be ignored by a11y testing
-    ignoreElements = '.search-modal, #nav-menu > li, html > body > main > section:nth-child(2) > div > ul > li'
+# Indicates elements that should be ignored by a11y testing
+ignoreElements = '.search-modal, #nav-menu > li, html > body > main > section:nth-child(2) > div > ul > li'
 
-    # Indicates guidelines and types to ignore (pa11y docs)
-    ignoreGuidelines = []
+# Indicates guidelines and types to ignore (pa11y docs)
+ignoreGuidelines = []
 
-    # The WCAG standard level against which pages are checked
-    # wcagLevel =
+# The WCAG standard level against which pages are checked
+# wcagLevel =
 
 
 # Links Check Plugin
