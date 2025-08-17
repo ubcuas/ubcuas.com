@@ -80,18 +80,18 @@ package = "@netlify/plugin-sitemap"
 
 # Missing Page Plugin
 # https://github.com/swyxio/netlify-plugin-no-more-404#readme
-[[plugins]]
-package = "netlify-plugin-no-more-404"
-
-  [plugins.inputs]
-    # Either "warn" or "error"
-    on404 = "error"
-
-    # Change this key to a new one any time you need to restart from scratch
-    cacheKey = "MyCacheKey"
-
-    # (For development) turn true for extra diagnostic logging
-    debugMode = false
+#[[plugins]]
+#package = "netlify-plugin-no-more-404"
+#
+#  [plugins.inputs]
+#    # Either "warn" or "error"
+#    on404 = "error"
+#
+#    # Change this key to a new one any time you need to restart from scratch
+#    cacheKey = "MyCacheKey"
+#
+#    # (For development) turn true for extra diagnostic logging
+#    debugMode = false
 
 
 # Accessibility Check Plugin

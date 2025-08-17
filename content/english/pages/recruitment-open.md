@@ -1,21 +1,20 @@
 ---
-title: "Recruitment 2024"
+title: "Recruitment 2025"
 # meta title
 meta_title: "Recruitment"
 # meta description
 description: "Find out all the details about our recruitment process!"
 # save as draft
-draft: true
+draft: false 
 ---
-
 {{% markdown class="text-center" %}}
-## Application Links
+####  Application Links
 {{% /markdown %}}
 
 {{< columns containerClass="pt-4 pb-10 flex flex-row text-center flex-wrap justify-center gap-y-4 items-start" itemClass="flex-initial basis-72" >}}
-{{< button label="Technical Member Application" link="https://docs.google.com/forms/d/e/1FAIpQLSdN-2wRe6KowuAxEetneANvpchru0hFpCyYHnlBmTjXIp8vIQ/viewform?usp=sf_link" >}}
+{{< button label="Technical Member Application" link="#" >}}
 <--->
-{{< button label="Admin Team Application" link="https://docs.google.com/forms/d/e/1FAIpQLScCgv_6i3ixd47giy1P-0ARqV5TZ-t4iirgZySHXwC4bGntuQ/viewform?usp=sf_link" >}}
+{{< button label="Admin Team Application" link="#" >}}
 {{< /columns >}}
 
 {{% markdown class="text-center pt-6" %}}
@@ -175,7 +174,6 @@ The videographer/photographer is responsible for capturing the team’s events, 
 #### Content Editor
 
 The content editor is responsible for writing and proofreading all written content produced by the team is clear, engaging, and free of errors. This includes editing social media updates any other written communications. The role involves close collaboration with the social media manager, website designer, and other team members. It’s an excellent opportunity to hone your writing, editing, and communication skills.
-
 
 
 {{% markdown class="text-center pt-4 pb-3" %}}

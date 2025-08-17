@@ -5,7 +5,7 @@
   "license": "MIT",
   "author": "UBC Uncrewed Aircraft Systems",
   "scripts": {
-    "dev": "hugo server",
+    "dev": "hugo server --disableFastRender",
     "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
     "preview": "hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify",
     "update-modules": "node ./scripts/clearModules.js && hugo mod clean --all && hugo mod get -u ./... && hugo mod tidy",
