@@ -18,7 +18,9 @@ draft: false
 
 ## Hydrone
 
-Hydrone is the team's flagship aircraft for the 2025 season. With modularity in mind, Hydrone is designed to be versatile -- allowing for quick and easy payload changes as well as easy disassembly.
+Hydrone was the team's flagship aircraft for the 2025 season. With modularity in mind, Hydrone was designed to be versatile -- allowing for quick and easy payload changes as well as easy disassembly. 
+
+Hydrone had a great peformance last season during competition, leading to a 2nd place finish in AEAC 2025 and the highest scoring Canadian team for SUAS 2025!
 
 {{% /markdown %}}
 
