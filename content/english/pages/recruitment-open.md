@@ -12,9 +12,9 @@ draft: false
 {{% /markdown %}}
 
 {{< columns containerClass="pt-4 pb-10 flex flex-row text-center flex-wrap justify-center gap-y-4 items-start" itemClass="flex-initial basis-72" >}}
-{{< button label="Technical Member Application" link="#" >}}
+{{< button label="Technical Member Application" link="https://docs.google.com/forms/d/1oqyMAU4Q5xr6eEHE6fhXgy9SrveiA-Bgg2fa5j6eOSE" >}}
 <--->
-{{< button label="Admin Team Application" link="#" >}}
+{{< button label="Admin Team Application" link="https://docs.google.com/forms/d/e/1FAIpQLSe2MeNSVJiXkYq74Nz4f33Qpmejqeeh6j-l7jEnFGT26NCmbQ/viewform?usp=dialog" >}}
 {{< /columns >}}
 
 {{% markdown class="text-center pt-6" %}}
@@ -38,59 +38,23 @@ UBC UAS is a great place to get a taste of industry, develop a diverse range of 
 ## Fall Recruitment Timeline
 {{% /markdown %}}
 
-{{< markdown class="image-light" >}}
-{{< image src="images/graphics/recruitment-timeline-light.svg" caption="" alt="Recruitment timeline" height="" width="600" position="center" command="Fit" class="" title="" >}}
-{{< /markdown >}}
-
-{{< markdown class="image-dark" >}}
-{{< image src="images/graphics/recruitment-timeline-dark.svg" caption="" alt="Recruitment timeline" height="" width="600" position="center" command="Fit" class="" title="" >}}
-{{< /markdown >}}
+{{% markdown class="pt-2" %}}
+- **Applications Open:** August 22nd
+- **Info Session 1:** Early September (TBD)
+- **Imagine Day:** September 2nd, 1–5 PM, Koerner Plaza
+- **Info Session 2:** September 7th (TBD)
+- **Applications Closed:** September 14th
+- **First General Meeting:** September 27th
+{{% /markdown %}}
 
 {{% markdown class="text-center pt-4" %}}
 ### Upcoming Events
 
-Application Window: August 25th - September 15th
+Application Window: August 22nd - September 14th
 
 Come visit us at one of the upcoming events to ask questions and learn more about UBC Uncrewed Aircraft Systems!
 {{% /markdown %}}
 
-{{< columns containerClass="pt-2 pb-6 flex flex-row flex-wrap justify-center gap-y-4 items-start" itemClass="flex-initial basis-64">}}
-
-{{% markdown %}}
-#### Info Session 1
-
-- **Date:** August 31st
-- **Time:** 7:00 - 8:00 PM
-- **Info:** Presentation and Q&A
-- **Location:** Google Meet
-  - [Meeting Link](https://meet.google.com/cvy-tttd-jpt)
-  - [Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NW92MXFtZ282bHM2dHR2amxxM2pnNW0waGggY19lZTAzNTE0ZmU4ODQzNGM5MmJkMjNlYmI0MjNmNGVkZTllNDg0YWFkYjViZmRiOGU2MGVjMTMwMjY0ODJkNmE2QGc&tmsrc=c_ee03514fe88434c92bd23ebb423f4ede9e484aadb5bfdb8e60ec13026482d6a6%40group.calendar.google.com)
-    {{% /markdown %}}
-
-<--->
-
-{{% markdown %}}
-#### Imagine Day
-
-- **Date:** September 5th
-- **Time:**  1:00 - 4:30 PM
-- **Location:** Main Mall
-  - [Zone 2: Side 1](/pdfs/imagine-day-map.pdf)
-    {{% /markdown %}}
-
-<--->
-
-{{% markdown %}}
-#### Info Session 2
-
-- **Date:** September 7th
-- **Time:** 6:30 - 7:30 PM
-- **Info:** Presentation and Q&A
-- **Location:** DMP - 301
-  - [Location Information](https://learningspaces.ubc.ca/classrooms/dmp-301)
-  - [Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NmwyNzdwZjE3YjYwZ3BrYXJma2dsdDNkNzQgY19lZTAzNTE0ZmU4ODQzNGM5MmJkMjNlYmI0MjNmNGVkZTllNDg0YWFkYjViZmRiOGU2MGVjMTMwMjY0ODJkNmE2QGc&tmsrc=c_ee03514fe88434c92bd23ebb423f4ede9e484aadb5bfdb8e60ec13026482d6a6%40group.calendar.google.com)
-    {{% /markdown %}}
-    {{< /columns >}}
 
 {{% markdown class="text-center pt-4" %}}
 ## Position Openings
@@ -102,46 +66,31 @@ Come visit us at one of the upcoming events to ask questions and learn more abou
 ## General Member Roles
 {{% /markdown %}}
 
-UBC UAS has three sub-teams for general members: **Aircraft**, **Payload**, and **Software**. Each sub-team has divisions that focus on specific skillsets within the sub-team.
+UBC UAS has four sub-teams for general members: **Aircraft**, **Payload**, **Electrical**, and **Software**. Each sub-team focuses on specific skillsets and projects within the team.
 
 {{% markdown class="text-center pt-4 pb-3" %}}
-### Aircraft Roles
+### Aircraft
 
-The aircraft sub-team builds innovative uncrewed aerial vehicles for our competitions. It works closely with our software and payload sub-teams to ensure proper integration between our systems. The aircraft sub-team is also responsible for the upkeep of active aircraft and ensuring flight readiness for test flights and competition.
+The aircraft sub-team builds innovative uncrewed aerial vehicles for our competitions. Members design and manufacture aerodynamic and lightweight airframes, control surfaces, and landing gear. You will learn and apply skills in mechanical design, aerodynamics, manufacturing, control surface selection, airfoil analysis, and simulation tools. The team is also responsible for the upkeep of active aircraft and ensuring flight readiness for test flights and competition, working closely with the software, payload, and electrical sub-teams to ensure proper integration between systems.
 {{% /markdown %}}
-
-#### MECH Aircraft
-
-Design and manufacture aerodynamic and lightweight airframes as well as control surfaces and landing gear. Members will learn and apply skills in mechanical design, aerodynamics, manufacturing, control surface selection, airfoil analysis and simulation tools applicable across industries.
-
-#### ELEC Aircraft
-
-Design of electrical systems within our aircraft, working closely with software and payload to ensure proper integration between systems. Members will learn and apply skills that are essential across industries including communication systems management, power management, signal processing, soldering, PCB design, and PID tuning and sensor calibration.
 
 {{% markdown class="text-center pt-4 pb-3" %}}
-### Payload Roles
+### Payload
 
-The payload sub-team creates mission-specific payload systems for competition. The sub-team works on projects including autonomous delivery rovers, winch mechanisms, and anything capable of interfacing with the aircraft. These projects involve the integration of multiple engineering disciplines.
+The payload sub-team creates mission-specific payload systems for competition, including autonomous delivery rovers, winch mechanisms, and other systems that interface with the aircraft. You will work on projects that involve the integration of multiple engineering disciplines, develop enclosures and structures controlled by electrical components, and use CAD, FEA software, and various manufacturing techniques such as 3D printing and laser cutting. Knowledge of statics, materials, and mechanical design principles is an asset.
 {{% /markdown %}}
-
-#### MECH Payload
-
-Work alongside electrical designers to develop enclosures and structures controlled by electrical components. You will make use of CAD, FEA software, and various manufacturing techniques including 3D printing and laser cutting. Knowledge of statics, materials, and mechanical design principles is an asset.
-
-#### ELEC Payload
-
-Design segments of payload projects with electrical aspects. You will learn to use microcontrollers to control motors and circuits, using EDA, RC, power distribution, etc. to ensure proper control and movements of the payload components.
 
 {{% markdown class="text-center pt-4 pb-3" %}}
-### Software Roles
+### Electrical
 
-The software team assigns roles based on preference and need, where members works on many different projects/programs and uses a variety of tools and languages. Members are encouraged to work on projects that they are interested in and apply their experience while learning new tools.
-
-
+The electrical sub-team designs and integrates electrical systems for both aircraft and payload projects. You will work on communication systems management, power management, signal processing, soldering, PCB design, sensor calibration, and embedded systems. Tasks include designing and implementing electrical systems, working with microcontrollers, controlling motors and circuits, and ensuring proper integration between systems. Experience with EDA tools, power distribution, and embedded development is an asset.
 {{% /markdown %}}
 
-#### Software Member
-All projects are up for grabs (everyone gets to choose at the start of the year what they get to work on) and the team works on a sprint-based system. Some languages and tools the team uses: JavaScript, Go, C++, Git, Angular, Python, React, Django, Docker, and Linux. Some developers may work on Payload sub-team projects, which require embedded development skills, including the use of microcontrollers, Git, control systems, telemetry, and more. Knowledge of motor control, control systems, and microcontrollers is an asset. Any knowledge with these tools and languages is a plus. Prior professional software development experience is not required but strongly recommended. Open-source contributions are also a plus.
+{{% markdown class="text-center pt-4 pb-3" %}}
+### Software
+
+The software sub-team works on a variety of projects and uses a range of tools and languages, including JavaScript, Go, C++, Git, Angular, Python, React, Django, Docker, and Linux. Members can choose projects at the start of the year and work in a sprint-based system. Some developers may work on embedded development for payload or aircraft projects, which involves microcontrollers, control systems, and telemetry. Knowledge of motor control, control systems, and microcontrollers is an asset. Prior professional software development experience is not required but is helpful. Open-source contributions are also a plus.
+{{% /markdown %}}
 
 {{% markdown class="text-center pt-4 pb-3" %}}
 ### Admin Team Roles
@@ -181,32 +130,17 @@ The content editor is responsible for writing and proofreading all written conte
 {{% /markdown %}}
 
 {{< accordion title="When do applications open?" >}}
-You will be able to access the application through our website starting August 25th at midnight (PST).
+You will be able to access the application through our website starting August 22nd at midnight (PST).
 {{< /accordion >}}
 
 {{< accordion title="Where do I apply?" >}}
-This webpage (ubcuas.com/recruitment)! All the application details and links will be updated on August 25th.
+This webpage (ubcuas.com/recruitment)! All the application details and links will be updated on August 22nd.
 {{< /accordion >}}
 
 {{< accordion title="What do I need to apply?" >}}
-The application process includes a general submission (with your resume, desired position, as well as some other information that will be released on August 25th). Be ready to show your eagerness and passion!
+The application process includes a general submission (with your resume, desired position, as well as some other information that will be released on August 22nd). Be ready to show your eagerness and passion!
 {{< /accordion >}}
 
-{{< accordion title="What are the different roles?" >}}
-There are openings for our 3 sub-teams: Aircraft, Payload, and Software. Within the Aircraft and Payload teams, we have divisions for ELEC and MECH, with tasks within those divisions being related to their discipline:
-
-ELEC Aircraft - ELEC skillset with preference in aircraft related ELEC tasks
-
-ELEC Payload - ELEC skillset with preference in payload related ELEC tasks
-
-MECH Aircraft - MECH skillset with preference in aircraft related ELEC tasks
-
-MECH Payload - MECH skillset with preference in aircraft related ELEC tasks
-
-Software (incl. firmware) - Software skillset with preferences that can be discussed with the software lead (firmware, web development, etc.)
-
-We are also recruiting for our admin team which includes roles in finance, marketing, and events.
-{{< /accordion >}}
 
 {{< accordion title="What can I expect as a First/Second Year?" >}}
 Don’t have much experience? We have your back. As a new member you can expect to be grouped with people of different levels of experience. We want to create an environment where you can learn, improve your skills, and gain valuable experience, all while doing meaningful work.
