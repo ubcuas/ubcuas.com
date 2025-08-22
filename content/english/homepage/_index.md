@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: "Join Us"
-    link: "/recruitment"
+    link: "/recruitment-open"
 
 # First Markdown Content Block
 first:
