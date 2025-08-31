@@ -36,7 +36,7 @@ weight = 3
 
 [[main]]
 name = "Recruitment"
-url = "/recruitment-open"
+url = "/recruitment"
 weight = 4
 
 [[main]]
