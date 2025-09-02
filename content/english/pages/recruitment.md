@@ -43,7 +43,7 @@ UBC UAS is a great place to get a taste of industry, develop a diverse range of 
 - **Applications Open:** August 22nd
 - **Info Session 1:** September 3rd, 7:00 PM, ANGU 339 (in-person)
 - **Imagine Day:** September 2nd, 1–5 PM, Koerner Plaza
-- **Info Session 2:** September 7th, 7:00 PM (online)
+- **Info Session 2:** September 7th, 7:00 PM, *[Registration Link Here](https://docs.google.com/forms/d/e/1FAIpQLSdqpH6hHxbC02X4hClMDppKdcEX3mHteL6UL8Xk0mATDWHlkg/viewform?usp=dialog)* (online)
 - **Applications Closed:** September 14th
 - **First General Meeting:** September 27th
 {{% /markdown %}}
