@@ -5,7 +5,7 @@ meta_title: "Recruitment"
 # meta description
 description: "Find out all the details about our recruitment process!"
 # save as draft
-draft: true 
+draft: false 
 ---
 {{% markdown class="text-center" %}}
 ####  Application Links
