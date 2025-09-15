@@ -1,11 +1,12 @@
 ---
-title: "Recruitment 2025"
+# NOTE: COPY CONTENTS FROM recruitment-open/closed.md TO recruitment.md
+title: "Recruitment Open 2025"
 # meta title
-meta_title: "Recruitment"
+meta_title: "Recruitment Open"
 # meta description
 description: "Find out all the details about our recruitment process!"
 # save as draft
-draft: false 
+draft: true 
 ---
 {{% markdown class="text-center" %}}
 ####  Application Links
@@ -37,10 +38,10 @@ UBC UAS is a great place to get a taste of industry, develop a diverse range of 
 {{% markdown class="text-center pt-4" %}}
 ## Fall Recruitment Timeline
 {{% /markdown %}}
-
+ Sep 3rd 7pm, in-person ANGU 339
 {{% markdown class="pt-2" %}}
 - **Applications Open:** August 22nd
-- **Info Session 1:** September 3rd, ANGU 339 (inperson)
+- **Info Session 1:** September 3rd, 7:00 PM, ANGU 339 (in-person)
 - **Imagine Day:** September 2nd, 1–5 PM, Koerner Plaza
 - **Info Session 2:** September 7th, 7:00 PM, *[Registration Link Here](https://docs.google.com/forms/d/e/1FAIpQLSdqpH6hHxbC02X4hClMDppKdcEX3mHteL6UL8Xk0mATDWHlkg/viewform?usp=dialog)* (online)
 - **Applications Closed:** September 14th
