@@ -81,12 +81,13 @@ UBC UAS has four sub-teams for general members: **Aircraft**, **Payload**, **Ele
 The aircraft sub-team builds innovative uncrewed aerial vehicles for our competitions. Members design and manufacture aerodynamic and lightweight airframes, control surfaces, and landing gear. You will learn and apply skills in mechanical design, aerodynamics, manufacturing, control surface selection, airfoil analysis, and simulation tools. The team is also responsible for the upkeep of active aircraft and ensuring flight readiness for test flights and competition, working closely with the software, payload, and electrical sub-teams to ensure proper integration between systems.
 {{% /markdown %}}
 
+<!--
 {{% markdown class="text-center pt-4 pb-3" %}}
 
 ### Payload
 
 The payload sub-team creates mission-specific payload systems for competition, including autonomous delivery rovers, winch mechanisms, and other systems that interface with the aircraft. You will work on projects that involve the integration of multiple engineering disciplines, develop enclosures and structures controlled by electrical components, and use CAD, FEA software, and various manufacturing techniques such as 3D printing and laser cutting. Knowledge of statics, materials, and mechanical design principles is an asset.
-{{% /markdown %}}
+{{% /markdown %}} -->
 
 {{% markdown class="text-center pt-4 pb-3" %}}
 
@@ -107,40 +108,6 @@ The software sub-team works on a variety of projects and uses a range of tools a
 
 If you have experience in any of these areas or are eager to learn, we encourage you to apply!
 {{% /markdown %}}
-
-{{% markdown class="text-center pt-4 pb-3" %}}
-
-### Admin Team Roles
-
-{{% /markdown %}}
-
-#### Events Coordinator
-
-The events coordinator is responsible for organizing and planning team events. This includes team socials, workshops, and trips. The events coordinator will also be responsible for organizing and planning public events such as recruitment events. This role is a great opportunity to develop your leadership, communication, and organizational skills.
-
-#### Finance Manager
-
-The finance manager is responsible for managing the team’s finances. This includes managing the team’s budget, applying for grants, processing purchases, and delegating finance work to executive members. This role is a great opportunity to develop your financial knowledge, leadership, and organizational skills.
-
-#### Social Media Manager
-
-Working as our social media manager, you will assist with promoting the team and its projects on social media. This includes creating content for our social media platforms, managing our social media accounts, and engaging with our followers. This role is a great opportunity to use your creativity as well as develop your communication and marketing skills.
-
-#### Website Designer
-
-The website designer is responsible for maintaining and updating the team's website. This includes ensuring the website is visually appealing, user-friendly, and up-to-date with the latest team updates, events, and news. The role involves collaborating with other team members to ensure that content is accurately reflected on the website. This is a great opportunity to develop your web design, coding, and creative skills.
-
-#### Sponsorship Manager
-
-The sponsorship manager is responsible for identifying and securing sponsorship opportunities to support the team's projects and events. This includes reaching out to potential sponsors, managing existing sponsorship relationships, and ensuring that sponsorship agreements are fulfilled. The role involves a lot of networking and communication, making it a fantastic opportunity to develop your negotiation, communication, and business development skills.
-
-#### Videographer/Photographer
-
-The videographer/photographer is responsible for capturing the team’s events, projects, and activities through high-quality photos and videos. This role includes shooting and editing footage for promotional materials, social media content, and documenting important milestones. It’s a great opportunity to showcase your creativity, build your portfolio, and develop your skills in video production and photography.
-
-#### Content Editor
-
-The content editor is responsible for writing and proofreading all written content produced by the team is clear, engaging, and free of errors. This includes editing social media updates any other written communications. The role involves close collaboration with the social media manager, website designer, and other team members. It’s an excellent opportunity to hone your writing, editing, and communication skills.
 
 {{% markdown class="text-center pt-4 pb-3" %}}
 
