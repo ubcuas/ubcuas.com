@@ -15,7 +15,7 @@ draft: false
 {{% /markdown %}}
 
 {{< columns containerClass="pt-4 pb-10 flex flex-row text-center flex-wrap justify-center gap-y-4 items-start" itemClass="flex-initial basis-72" >}}
-{{< button label="Technical Member Application" link="https://docs.google.com/forms/d/1rj81y4gIr6jUM3C6q0HVXvp5ahNigkVfnTw2J3mUuEQ" >}}
+{{< button label="Technical Member Application" link="https://docs.google.com/forms/d/e/1FAIpQLSfy--sTPE2musC3Iks1pcJC1wiz8azT7DxmiQ3WCaCSb-v1XQ/viewform" >}}
 {{< /columns >}}
 
 {{% markdown class="text-center pt-6" %}}
